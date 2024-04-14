@@ -1,0 +1,2472 @@
+RID: 1PS34EG5013	
+Job Title:XP_021695945.1 potassium voltage-gated channel...				
+Program: BLASTP 
+Database: nr All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF excluding environmental samples from WGS projects
+Query #1: XP_021695945.1 potassium voltage-gated channel subfamily H member 6 isoform X9 [Aedes aegypti] Query ID: lcl|Query_11822765 Length: 1246
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+seizure, isoform C [Drosophila melanogaster]                      Drosophila m... fruit fly       7227       874    874   41%   0.0    79.96  855        NP_001286814.1   
+ether a go-go, isoform D [Drosophila melanogaster]                Drosophila m... fruit fly       7227       509    618   50%   5e-159 47.94  1268       NP_001188592.1   
+ether a go-go, isoform A [Drosophila melanogaster]                Drosophila m... fruit fly       7227       507    612   50%   5e-159 47.94  1174       NP_511158.2      
+ether a go-go, isoform B [Drosophila melanogaster]                Drosophila m... fruit fly       7227       509    614   50%   6e-159 47.94  1270       NP_001036275.1   
+ether a go-go, isoform G [Drosophila melanogaster]                Drosophila m... fruit fly       7227       509    620   50%   7e-159 47.94  1254       NP_001259558.1   
+potassium channel protein [Drosophila melanogaster]               Drosophila m... fruit fly       7227       504    608   50%   1e-157 47.54  1174       AAA28495.1       
+MIP05793p [Drosophila melanogaster]                               Drosophila m... fruit fly       7227       441    441   39%   6e-135 45.60  1090       ACQ89822.1       
+HL01061p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       439    553   50%   2e-133 45.60  1187       ACU51756.1       
+Eag-like K[+] channel, isoform A [Drosophila melanogaster]        Drosophila m... fruit fly       7227       440    554   50%   6e-133 45.60  1284       NP_477009.1      
+putative potassium channel subunit [Drosophila melanogaster]      Drosophila m... fruit fly       7227       440    554   50%   6e-133 45.60  1284       AAA62472.1       
+Eag-like K[+] channel, isoform B [Drosophila melanogaster]        Drosophila m... fruit fly       7227       435    550   50%   2e-131 45.05  1283       NP_001286553.1   
+ether a go-go, isoform E [Drosophila melanogaster]                Drosophila m... fruit fly       7227       344    455   39%   2e-105 46.96  528        NP_001259556.1   
+ether a go-go, isoform C [Drosophila melanogaster]                Drosophila m... fruit fly       7227       343    454   39%   3e-105 46.96  530        NP_001188591.1   
+ether a go-go, isoform F [Drosophila melanogaster]                Drosophila m... fruit fly       7227       343    454   39%   4e-105 46.96  537        NP_001259557.1   
+IP03413p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       337    449   49%   8e-103 46.69  529        ACV44470.1       
+cyclic nucleotide-gated ion channel subunit A, isoform B...       Drosophila m... fruit fly       7227       176    176   35%   1e-44  26.61  840        NP_001188960.1   
+CNG channel [Drosophila melanogaster]                             Drosophila m... fruit fly       7227       172    172   35%   4e-44  26.61  665        CAA61760.1       
+cyclic nucleotide-gated ion channel subunit A, isoform A...       Drosophila m... fruit fly       7227       172    172   35%   4e-44  26.61  665        NP_477116.1      
+hyperpolarization-activated ion channel variant DMIH-A1B1C1...    Drosophila m... fruit fly       7227       171    171   36%   1e-42  25.72  1282       AAX78393.1       
+I[[h]] channel, isoform B [Drosophila melanogaster]               Drosophila m... fruit fly       7227       171    171   36%   1e-42  25.72  1290       NP_001033947.1   
+I[[h]] channel, isoform F [Drosophila melanogaster]               Drosophila m... fruit fly       7227       170    170   36%   2e-42  25.46  1295       NP_001137667.1   
+putative voltage- and cyclic nucleotide-gated ion channel...      Drosophila m... fruit fly       7227       167    167   36%   1e-41  25.46  945        AAD42059.1       
+hyperpolarization-activated ion channel variant DMIH-A3B1C1...    Drosophila m... fruit fly       7227       160    160   36%   2e-40  25.62  627        AAX78395.1       
+I[[h]] channel, isoform C [Drosophila melanogaster]               Drosophila m... fruit fly       7227       160    160   36%   2e-40  25.62  618        NP_001033945.1   
+I[[h]] channel, isoform I [Drosophila melanogaster]               Drosophila m... fruit fly       7227       159    159   36%   4e-40  25.62  601        NP_001033946.2   
+FI14727p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       159    159   36%   4e-40  25.77  623        AEH59646.1       
+I[[h]] channel, isoform G [Drosophila melanogaster]               Drosophila m... fruit fly       7227       160    160   36%   4e-39  23.75  1322       NP_001137668.1   
+I[[h]] channel, isoform E [Drosophila melanogaster]               Drosophila m... fruit fly       7227       159    159   36%   6e-39  23.89  1327       NP_001033948.1   
+hyperpolarization-activated ion channel variant DMIH-A1B2C2...    Drosophila m... fruit fly       7227       159    159   36%   7e-39  23.89  1319       AAX78396.1       
+IP03313p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       111    111   10%   7e-27  39.86  238        ABG02141.1       
+RE10840p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       109    109   23%   5e-25  25.50  388        AAN71302.1       
+Chain A, Eag-like K[+] channel [Drosophila melanogaster]          Drosophila m... fruit fly       7227       91.3   91.3  9%    4e-21  34.68  130        4HP4_A           
+cyclic nucleotide-gated ion channel subunit B, isoform B...       Drosophila m... fruit fly       7227       99.8   99.8  18%   1e-20  24.58  987        NP_001286693.1   
+cyclic nucleotide-gated ion channel subunit B, isoform A...       Drosophila m... fruit fly       7227       99.8   99.8  18%   1e-20  24.58  1040       NP_611607.2      
+GH17414p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       97.1   97.1  18%   2e-20  24.58  515        AAL28273.1       
+I[[h]] channel, isoform H [Drosophila melanogaster]               Drosophila m... fruit fly       7227       77.8   77.8  11%   7e-14  29.61  917        NP_001137669.1   
+MIP19354p [Drosophila melanogaster]                               Drosophila m... fruit fly       7227       69.3   69.3  18%   5e-12  25.00  329        ADI72914.1       
+I[[h]] channel, isoform M [Drosophila melanogaster]               Drosophila m... fruit fly       7227       67.0   67.0  11%   1e-11  29.61  245        NP_001246317.1   
+TWIK-related acid-sensitive K[+] channel 6, isoform F...          Drosophila m... fruit fly       7227       43.5   43.5  6%    0.002  28.00  408        NP_001262541.1   
+TWIK-related acid-sensitive K[+] channel 6, isoform D...          Drosophila m... fruit fly       7227       43.1   43.1  6%    0.002  28.00  397        NP_001262539.1   
+slowpoke, isoform V [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.5   43.5  18%   0.002  22.03  1135       NP_001262926.1   
+slowpoke, isoform O [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.5   43.5  18%   0.002  22.03  1164       NP_001014653.1   
+slowpoke, isoform H [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.1   43.1  18%   0.002  22.03  1175       NP_001014660.1   
+slowpoke, isoform K [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.1   43.1  18%   0.003  22.03  1164       NP_001014657.1   
+slowpoke, isoform X [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.1   43.1  18%   0.003  22.03  1152       NP_001262928.1   
+slowpoke, isoform W [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.1   43.1  18%   0.003  22.03  1159       NP_001262927.1   
+slowpoke, isoform A [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       43.1   43.1  18%   0.003  22.03  1175       NP_524486.2      
+slowpoke, isoform F [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       42.7   42.7  18%   0.003  22.03  1175       NP_001014662.1   
+uncharacterized protein Dmel_CG43155 [Drosophila melanogaster]    Drosophila m... fruit fly       7227       42.4   42.4  2%    0.003  42.86  411        NP_572720.2      
+IP11279p [Drosophila melanogaster]                                Drosophila m... fruit fly       7227       40.8   40.8  4%    0.006  32.20  272        ABJ17020.1       
+slowpoke, isoform P [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       40.8   40.8  24%   0.012  21.10  1164       NP_001014652.1   
+slowpoke, isoform Q [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       40.8   40.8  24%   0.014  21.10  1175       NP_001014651.1   
+slowpoke, isoform E [Drosophila melanogaster]                     Drosophila m... fruit fly       7227       40.8   40.8  24%   0.015  21.10  1175       NP_001014663.1   
+uncharacterized protein Dmel_CG42594, isoform C [Drosophila...    Drosophila m... fruit fly       7227       40.4   40.4  4%    0.017  33.90  1039       NP_001162668.2   
+uncharacterized protein Dmel_CG42594, isoform A [Drosophila...    Drosophila m... fruit fly       7227       40.4   40.4  4%    0.019  33.90  905        NP_001162667.1   
+sandman [Drosophila melanogaster]                                 Drosophila m... fruit fly       7227       38.9   38.9  4%    0.042  30.65  395        NP_610349.1      
+
+
+Alignments:
+
+>seizure, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001286814.1 Length: 855
+>seizure, isoform A [Drosophila melanogaster]
+Sequence ID: NP_476713.1 Length: 855
+>seizure, isoform B [Drosophila melanogaster]
+Sequence ID: NP_726408.1 Length: 855
+>seizure potassium channel [Drosophila melanogaster]
+Sequence ID: AAB50936.1 Length: 855
+>putative potassium channel subunit homolog [Drosophila melanogaster]
+Sequence ID: AAB50956.1 Length: 855
+>seizure, isoform B [Drosophila melanogaster]
+Sequence ID: AAF47148.1 Length: 855
+>GH12235p [Drosophila melanogaster]
+Sequence ID: AAL13579.1 Length: 855 
+Range 1: 290 to 798
+
+Score:874 bits(2257), Expect:0.0, 
+Method:Compositional matrix adjust., 
+Identities:415/519(80%), Positives:461/519(88%), Gaps:11/519(2%)
+
+Query  377  VLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEP  436
+            + SLG ++L + KLQ+   HKWT+LHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGE 
+Sbjct  290  ITSLGGNILLDQKLQNNYYHKWTLLHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEQ  349
+
+Query  437  DFNQRKNRKYAD-DPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSG  495
+            D+ QR+N KY + DPIVIIDLIVDVTF++DI+INFRTTFVN QDEVVSHPGRIAVHYLSG
+Sbjct  350  DY-QRRNSKYINSDPIVIIDLIVDVTFIVDIIINFRTTFVNSQDEVVSHPGRIAVHYLSG  408
+
+Query  496  WFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYG  555
+            WFLIDLVAA+PFDLLLVGSDTDE       TTTLIGLLKTARLLRLVRVARKIDRYSEYG
+Sbjct  409  WFLIDLVAAVPFDLLLVGSDTDE-------TTTLIGLLKTARLLRLVRVARKIDRYSEYG  461
+
+Query  556  AAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGP  615
+            AAVL+LLMATF LIAHWLACIWYAIGNAE+      +GWL++LA   QE Y+ N TGG P
+Sbjct  462  AAVLILLMATFILIAHWLACIWYAIGNAEKSIASKNIGWLNSLAYDIQEPYFDNRTGG-P  520
+
+Query  616  SIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQR  675
+            SIKSRY+TALYFTFTSLTSVGFGNVAPNTDAEK FTICVMLVGSLMYASIFGNVSAIIQR
+Sbjct  521  SIKSRYITALYFTFTSLTSVGFGNVAPNTDAEKAFTICVMLVGSLMYASIFGNVSAIIQR  580
+
+Query  676  LYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQ  735
+            LYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNS+LKGFPECLQ
+Sbjct  581  LYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSLLKGFPECLQ  640
+
+Query  736  ADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARG  795
+            ADICLHLNR LL  C+AF  ASPGCLRA SLKFKTTHAPPGD LVH+GDVLT LYFIARG
+Sbjct  641  ADICLHLNRKLLTTCAAFSEASPGCLRAFSLKFKTTHAPPGDILVHRGDVLTSLYFIARG  700
+
+Query  796  SIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLF  855
+            SIEI +   ++ +LGK+DIFGENPCI+ T+GKSN  V+ALTYCD+HK+HRDDLLDVLD +
+Sbjct  701  SIEIQRAGNIV-VLGKNDIFGENPCIYPTVGKSNGVVRALTYCDIHKLHRDDLLDVLDSY  759
+
+Query  856  PEFYDSFVNSLEITYNMRDEEQAGIELRHRHMRLGSQDR  894
+            PEF +SFV++L ITYNMRD+E +G++++HR++R  S D+
+Sbjct  760  PEFLESFVSNLVITYNMRDDEHSGVDIKHRYLRAKSSDK  798
+
+
+
+
+>ether a go-go, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001188592.1 Length: 1268
+>ether a go-go, isoform D [Drosophila melanogaster]
+Sequence ID: ADV37674.1 Length: 1268 
+Range 1: 201 to 690
+
+Score:509 bits(1312), Expect:5e-159, 
+Method:Compositional matrix adjust., 
+Identities:244/509(48%), Positives:339/509(66%), Gaps:28/509(5%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  201  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  258
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  259  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  310
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  311  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  364
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  365  YGAAMLILLLCFYMLVAHWLACIWYSIGRSD---ADNGIQYSWLWKLANVTQSPYSYIWS  421
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  422  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  481
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  482  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  541
+
+Query  725  SVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGD  784
+             VL   P+ ++ADIC+HLNR + N   AF  AS GCLRAL++ F  +H+ PGD L H G+
+Sbjct  542  KVLNYCPKDMKADICVHLNRKVFNEHPAFRLASDGCLRALAMHFMMSHSAPGDLLYHTGE  601
+
+Query  785  VLTYLYFIARGSIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIH  844
+             +  L FI  GS+E+++DD V+AILGK D+FG+     + +G+S +NV+ALTYCDLH I 
+Sbjct  602  SIDSLCFIVTGSLEVIQDDEVVAILGKGDVFGDQFWKDSAVGQSAANVRALTYCDLHAIK  661
+
+Query  845  RDDLLDVLDLFPEFYDSFVNSLEITYNMR  873
+            RD LL+VLD +  F +SF  +L +TYN+R
+Sbjct  662  RDKLLEVLDFYSAFANSFARNLVLTYNLR  690
+
+
+
+
+Range 2: 5 to 157
+
+Score:108 bits(269), Expect:3e-23, 
+Method:Compositional matrix adjust., 
+Identities:56/153(37%), Positives:88/153(57%), Gaps:18/153(11%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SACTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEV-----------  111
+            S    F+ G++T +  V  ++  L   ++  FEIL Y+KN  +  C+             
+Sbjct  65   SCRCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNNLQCGCALSQFGKAQTQETP  124
+
+Query  112  ------IAPIRSEVDDISLFIINFEDLTNPTSP  138
+                  +APIR+E D + LF++ F D+T    P
+Sbjct  125  LWLLLQVAPIRNERDLVVLFLLTFRDITALKQP  157
+
+
+
+
+>ether a go-go, isoform A [Drosophila melanogaster]
+Sequence ID: NP_511158.2 Length: 1174
+>RecName: Full=Potassium voltage-gated channel protein eag; AltName: Full=Ether-a-go-go protein [Drosophila melanogaster]
+Sequence ID: Q02280.2 Length: 1174
+>ether a go-go, isoform A [Drosophila melanogaster]
+Sequence ID: AAF48410.1 Length: 1174 
+Range 1: 203 to 692
+
+Score:507 bits(1306), Expect:5e-159, 
+Method:Compositional matrix adjust., 
+Identities:244/509(48%), Positives:339/509(66%), Gaps:28/509(5%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  203  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  260
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  261  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  312
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  313  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  366
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  367  YGAAMLILLLCFYMLVAHWLACIWYSIGRSD---ADNGIQYSWLWKLANVTQSPYSYIWS  423
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  424  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  483
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  484  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  543
+
+Query  725  SVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGD  784
+             VL   P+ ++ADIC+HLNR + N   AF  AS GCLRAL++ F  +H+ PGD L H G+
+Sbjct  544  KVLNYCPKDMKADICVHLNRKVFNEHPAFRLASDGCLRALAMHFMMSHSAPGDLLYHTGE  603
+
+Query  785  VLTYLYFIARGSIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIH  844
+             +  L FI  GS+E+++DD V+AILGK D+FG+     + +G+S +NV+ALTYCDLH I 
+Sbjct  604  SIDSLCFIVTGSLEVIQDDEVVAILGKGDVFGDQFWKDSAVGQSAANVRALTYCDLHAIK  663
+
+Query  845  RDDLLDVLDLFPEFYDSFVNSLEITYNMR  873
+            RD LL+VLD +  F +SF  +L +TYN+R
+Sbjct  664  RDKLLEVLDFYSAFANSFARNLVLTYNLR  692
+
+
+
+
+Range 2: 5 to 159
+
+Score:104 bits(259), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:56/155(36%), Positives:88/155(56%), Gaps:20/155(12%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEV---------  111
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN  +  C+           
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNNLQCGCALSQFGKAQTQE  124
+
+Query  112  --------IAPIRSEVDDISLFIINFEDLTNPTSP  138
+                    +APIR+E D + LF++ F D+T    P
+Sbjct  125  TPLWLLLQVAPIRNERDLVVLFLLTFRDITALKQP  159
+
+
+
+
+>ether a go-go, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001036275.1 Length: 1270
+>ether a go-go, isoform B [Drosophila melanogaster]
+Sequence ID: ABI30980.1 Length: 1270 
+Range 1: 203 to 692
+
+Score:509 bits(1312), Expect:6e-159, 
+Method:Compositional matrix adjust., 
+Identities:244/509(48%), Positives:339/509(66%), Gaps:28/509(5%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  203  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  260
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  261  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  312
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  313  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  366
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  367  YGAAMLILLLCFYMLVAHWLACIWYSIGRSD---ADNGIQYSWLWKLANVTQSPYSYIWS  423
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  424  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  483
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  484  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  543
+
+Query  725  SVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGD  784
+             VL   P+ ++ADIC+HLNR + N   AF  AS GCLRAL++ F  +H+ PGD L H G+
+Sbjct  544  KVLNYCPKDMKADICVHLNRKVFNEHPAFRLASDGCLRALAMHFMMSHSAPGDLLYHTGE  603
+
+Query  785  VLTYLYFIARGSIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIH  844
+             +  L FI  GS+E+++DD V+AILGK D+FG+     + +G+S +NV+ALTYCDLH I 
+Sbjct  604  SIDSLCFIVTGSLEVIQDDEVVAILGKGDVFGDQFWKDSAVGQSAANVRALTYCDLHAIK  663
+
+Query  845  RDDLLDVLDLFPEFYDSFVNSLEITYNMR  873
+            RD LL+VLD +  F +SF  +L +TYN+R
+Sbjct  664  RDKLLEVLDFYSAFANSFARNLVLTYNLR  692
+
+
+
+
+Range 2: 5 to 159
+
+Score:104 bits(259), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:56/155(36%), Positives:88/155(56%), Gaps:20/155(12%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEV---------  111
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN  +  C+           
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNNLQCGCALSQFGKAQTQE  124
+
+Query  112  --------IAPIRSEVDDISLFIINFEDLTNPTSP  138
+                    +APIR+E D + LF++ F D+T    P
+Sbjct  125  TPLWLLLQVAPIRNERDLVVLFLLTFRDITALKQP  159
+
+
+
+
+>ether a go-go, isoform G [Drosophila melanogaster]
+Sequence ID: NP_001259558.1 Length: 1254
+>ether a go-go, isoform G [Drosophila melanogaster]
+Sequence ID: AGB95400.1 Length: 1254 
+Range 1: 186 to 675
+
+Score:509 bits(1310), Expect:7e-159, 
+Method:Compositional matrix adjust., 
+Identities:244/509(48%), Positives:339/509(66%), Gaps:28/509(5%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  186  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  243
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  244  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  295
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  296  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  349
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  350  YGAAMLILLLCFYMLVAHWLACIWYSIGRSD---ADNGIQYSWLWKLANVTQSPYSYIWS  406
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  407  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  466
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  467  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  526
+
+Query  725  SVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGD  784
+             VL   P+ ++ADIC+HLNR + N   AF  AS GCLRAL++ F  +H+ PGD L H G+
+Sbjct  527  KVLNYCPKDMKADICVHLNRKVFNEHPAFRLASDGCLRALAMHFMMSHSAPGDLLYHTGE  586
+
+Query  785  VLTYLYFIARGSIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIH  844
+             +  L FI  GS+E+++DD V+AILGK D+FG+     + +G+S +NV+ALTYCDLH I 
+Sbjct  587  SIDSLCFIVTGSLEVIQDDEVVAILGKGDVFGDQFWKDSAVGQSAANVRALTYCDLHAIK  646
+
+Query  845  RDDLLDVLDLFPEFYDSFVNSLEITYNMR  873
+            RD LL+VLD +  F +SF  +L +TYN+R
+Sbjct  647  RDKLLEVLDFYSAFANSFARNLVLTYNLR  675
+
+
+
+
+Range 2: 5 to 142
+
+Score:111 bits(277), Expect:4e-24, 
+Method:Compositional matrix adjust., 
+Identities:55/138(40%), Positives:86/138(62%), Gaps:3/138(2%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLTNPTSP  138
+             + LF++ F D+T    P
+Sbjct  125  LVVLFLLTFRDITALKQP  142
+
+
+
+
+>potassium channel protein [Drosophila melanogaster]
+Sequence ID: AAA28495.1 Length: 1174
+Range 1: 203 to 692
+
+Score:504 bits(1297), Expect:1e-157, 
+Method:Compositional matrix adjust., 
+Identities:242/509(48%), Positives:338/509(66%), Gaps:28/509(5%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  203  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  260
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  261  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  312
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  313  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  366
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  367  YGAAMLILLLCFYMLVAHWLACIWYSIGRSD---ADNGIQYSWLWKLANVTQSPYSYIWS  423
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  424  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  483
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  484  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  543
+
+Query  725  SVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGD  784
+             VL   P+ ++ADIC+HLNR + +    F  AS GCLRAL++ F  +H+ PGD L H G+
+Sbjct  544  KVLNCCPKDMKADICVHLNRKVFDEHPTFRLASDGCLRALAMHFMMSHSAPGDLLYHTGE  603
+
+Query  785  VLTYLYFIARGSIEILKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIH  844
+             +  L FI  GS+E+++DD V+AILGK D+FG+     + +G+S +NV+ALTYCDLH I 
+Sbjct  604  SIDSLCFIVTGSLEVIQDDEVVAILGKGDVFGDQFWKDSAVGQSAANVRALTYCDLHAIK  663
+
+Query  845  RDDLLDVLDLFPEFYDSFVNSLEITYNMR  873
+            RD LL+VLD +  F +SF  +L +TYN+R
+Sbjct  664  RDKLLEVLDFYSAFANSFARNLVLTYNLR  692
+
+
+
+
+Range 2: 5 to 159
+
+Score:104 bits(259), Expect:5e-22, 
+Method:Compositional matrix adjust., 
+Identities:56/155(36%), Positives:88/155(56%), Gaps:20/155(12%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEV---------  111
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN  +  C+           
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNNLQCGCALSQFGKAQTQE  124
+
+Query  112  --------IAPIRSEVDDISLFIINFEDLTNPTSP  138
+                    +APIR+E D + LF++ F D+T    P
+Sbjct  125  TPLWLLLQVAPIRNERDLVVLFLLTFRDITALKQP  159
+
+
+
+
+>MIP05793p, partial [Drosophila melanogaster]
+Sequence ID: ACQ89822.1 Length: 1090
+Range 1: 51 to 534
+
+Score:441 bits(1133), Expect:6e-135, 
+Method:Compositional matrix adjust., 
+Identities:233/511(46%), Positives:326/511(63%), Gaps:48/511(9%)
+
+Query  385  LPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNR  444
+             PEYK QS +  +  + HY  FK +WDW+IL+   Y A+  PY AAF             
+Sbjct  51   FPEYKTQSIKKSRLILPHYGVFKGIWDWVILVATFYVALMVPYNAAF-------------  97
+
+Query  445  KYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAA  504
+              AD    + D+IV+  F++DIL+NFRTTFV+ + EVVS+  +IA++YL GWF +DL+AA
+Sbjct  98   AKADRQTKVSDVIVEALFIVDILLNFRTTFVSRKGEVVSNSKQIAINYLRGWFALDLLAA  157
+
+Query  505  IPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYGAAVLVLLMA  564
+            +PFD L      D  G D       I L+K  RLLRL R+ +KIDRYS++ A +L LLM 
+Sbjct  158  LPFDHLYASDLYD--GEDSH-----IHLVKLTRLLRLARLLQKIDRYSQHTAMILTLLMF  210
+
+Query  565  TFALIAHWLACIWYAIGNAERP-FMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVT  623
+            +F L AHWLACIWY I   E   F ++ +GWL  LAE        N +    +    Y T
+Sbjct  211  SFTLAAHWLACIWYVIAVKEYEWFPESNIGWLQLLAERK------NASVAILTTAETYST  264
+
+Query  624  ALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARY  683
+            ALYFTFTSLTSVGFGNV+ NT AEK+FTI +ML+G+LM+A +FGNV+AIIQR+YS  + Y
+Sbjct  265  ALYFTFTSLTSVGFGNVSANTTAEKVFTIIMMLIGALMHAVVFGNVTAIIQRMYSRRSLY  324
+
+Query  684  HTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLN  743
+             ++   +++F+  H +P  L+QR+E+YFQ +W+ ++GID+   L+ FPE L+ D+ +HL+
+Sbjct  325  ESKWRDLKDFVALHNMPKELKQRIEDYFQTSWSLSHGIDIYETLREFPEELRGDVSMHLH  384
+
+Query  744  RNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD  803
+            R +L     FEAAS GCL+ LSL  KT    PG+ L+HKGD L Y+Y++  GS+E++KDD
+Sbjct  385  REIL-QLPIFEAASQGCLKLLSLHIKTNFCAPGEYLIHKGDALNYIYYLCNGSMEVIKDD  443
+
+Query  804  VVMAILGKDDIFGENPCIH---TTLG---------------KSNSNVKALTYCDLHKIHR  845
+            +V+AILGK D+ G +  +H   T+ G               +S+S++KALTYCDL  IH 
+Sbjct  444  MVVAILGKGDLVGSDINVHLVATSNGQMTATTNSAGQDVVVRSSSDIKALTYCDLKCIHM  503
+
+Query  846  DDLLDVLDLFPEFYDSFVNSLE--ITYNMRD  874
+              L++VL L+PE+   F N ++  +T N+R+
+Sbjct  504  GGLVEVLRLYPEYQQQFANDIQHDLTCNLRE  534
+
+
+
+
+>HL01061p, partial [Drosophila melanogaster]
+Sequence ID: ACU51756.1 Length: 1187
+Range 1: 245 to 728
+
+Score:439 bits(1128), Expect:2e-133, 
+Method:Compositional matrix adjust., 
+Identities:233/511(46%), Positives:326/511(63%), Gaps:48/511(9%)
+
+Query  385  LPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNR  444
+             PEYK QS +  +  + HY  FK +WDW+IL+   Y A+  PY AAF             
+Sbjct  245  FPEYKTQSIKKSRLILPHYGVFKGIWDWVILVATFYVALMVPYNAAF-------------  291
+
+Query  445  KYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAA  504
+              AD    + D+IV+  F++DIL+NFRTTFV+ + EVVS+  +IA++YL GWF +DL+AA
+Sbjct  292  AKADRQTKVSDVIVEALFIVDILLNFRTTFVSRKGEVVSNSKQIAINYLRGWFALDLLAA  351
+
+Query  505  IPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYGAAVLVLLMA  564
+            +PFD L      D  G D       I L+K  RLLRL R+ +KIDRYS++ A +L LLM 
+Sbjct  352  LPFDHLYASDLYD--GEDSH-----IHLVKLTRLLRLARLLQKIDRYSQHTAMILTLLMF  404
+
+Query  565  TFALIAHWLACIWYAIGNAERP-FMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVT  623
+            +F L AHWLACIWY I   E   F ++ +GWL  LAE        N +    +    Y T
+Sbjct  405  SFTLAAHWLACIWYVIAVKEYEWFPESNIGWLQLLAERK------NASVAILTTAETYST  458
+
+Query  624  ALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARY  683
+            ALYFTFTSLTSVGFGNV+ NT AEK+FTI +ML+G+LM+A +FGNV+AIIQR+YS  + Y
+Sbjct  459  ALYFTFTSLTSVGFGNVSANTTAEKVFTIIMMLIGALMHAVVFGNVTAIIQRMYSRRSLY  518
+
+Query  684  HTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLN  743
+             ++   +++F+  H +P  L+QR+E+YFQ +W+ ++GID+   L+ FPE L+ D+ +HL+
+Sbjct  519  ESKWRDLKDFVALHNMPKELKQRIEDYFQTSWSLSHGIDIYETLREFPEELRGDVSMHLH  578
+
+Query  744  RNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD  803
+            R +L     FEAAS GCL+ LSL  KT    PG+ L+HKGD L Y+Y++  GS+E++KDD
+Sbjct  579  REIL-QLPIFEAASQGCLKLLSLHIKTNFCAPGEYLIHKGDALNYIYYLCNGSMEVIKDD  637
+
+Query  804  VVMAILGKDDIFGENPCIH---TTLG---------------KSNSNVKALTYCDLHKIHR  845
+            +V+AILGK D+ G +  +H   T+ G               +S+S++KALTYCDL  IH 
+Sbjct  638  MVVAILGKGDLVGSDINVHLVATSNGQMTATTNSAGQDVVVRSSSDIKALTYCDLKCIHM  697
+
+Query  846  DDLLDVLDLFPEFYDSFVNSLE--ITYNMRD  874
+              L++VL L+PE+   F N ++  +T N+R+
+Sbjct  698  GGLVEVLRLYPEYQQQFANDIQHDLTCNLRE  728
+
+
+
+
+Range 2: 1 to 134
+
+Score:114 bits(285), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/134(37%), Positives:85/134(63%), Gaps:0/134(0%)
+
+Query  1    MPVRRGHVAPKTTLIETIIRKFDTHNRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVM  60
+            MP R+G +AP+ T ++TI  +FD  + +F++ NAQ     I++CSDGF  +TG++RA++M
+Sbjct  1    MPARKGLLAPQNTFLDTIATRFDGTHSNFVLGNAQANGNPIVYCSDGFVDLTGYSRAQIM  60
+
+Query  61   QRSACTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            Q+     FL G  T +   Q I+++L    E   E+++Y+K G+ F C   I PI++E  
+Sbjct  61   QKGCSCHFLYGPDTKEEHKQQIEKSLSNKMELKLEVIFYKKEGAPFWCLFDIVPIKNEKR  120
+
+Query  121  DISLFIINFEDLTN  134
+            D+ LF+ + +D+T+
+Sbjct  121  DVVLFLASHKDITH  134
+
+
+
+
+>Eag-like K[+] channel, isoform A [Drosophila melanogaster]
+Sequence ID: NP_477009.1 Length: 1284
+>Eag-like K[+] channel, isoform A [Drosophila melanogaster]
+Sequence ID: AAF57772.2 Length: 1284 
+Range 1: 245 to 728
+
+Score:440 bits(1131), Expect:6e-133, 
+Method:Compositional matrix adjust., 
+Identities:233/511(46%), Positives:326/511(63%), Gaps:48/511(9%)
+
+Query  385  LPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNR  444
+             PEYK QS +  +  + HY  FK +WDW+IL+   Y A+  PY AAF             
+Sbjct  245  FPEYKTQSIKKSRLILPHYGVFKGIWDWVILVATFYVALMVPYNAAF-------------  291
+
+Query  445  KYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAA  504
+              AD    + D+IV+  F++DIL+NFRTTFV+ + EVVS+  +IA++YL GWF +DL+AA
+Sbjct  292  AKADRQTKVSDVIVEALFIVDILLNFRTTFVSRKGEVVSNSKQIAINYLRGWFALDLLAA  351
+
+Query  505  IPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYGAAVLVLLMA  564
+            +PFD L      D  G D       I L+K  RLLRL R+ +KIDRYS++ A +L LLM 
+Sbjct  352  LPFDHLYASDLYD--GEDSH-----IHLVKLTRLLRLARLLQKIDRYSQHTAMILTLLMF  404
+
+Query  565  TFALIAHWLACIWYAIGNAERP-FMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVT  623
+            +F L AHWLACIWY I   E   F ++ +GWL  LAE        N +    +    Y T
+Sbjct  405  SFTLAAHWLACIWYVIAVKEYEWFPESNIGWLQLLAERK------NASVAILTTAETYST  458
+
+Query  624  ALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARY  683
+            ALYFTFTSLTSVGFGNV+ NT AEK+FTI +ML+G+LM+A +FGNV+AIIQR+YS  + Y
+Sbjct  459  ALYFTFTSLTSVGFGNVSANTTAEKVFTIIMMLIGALMHAVVFGNVTAIIQRMYSRRSLY  518
+
+Query  684  HTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLN  743
+             ++   +++F+  H +P  L+QR+E+YFQ +W+ ++GID+   L+ FPE L+ D+ +HL+
+Sbjct  519  ESKWRDLKDFVALHNMPKELKQRIEDYFQTSWSLSHGIDIYETLREFPEELRGDVSMHLH  578
+
+Query  744  RNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD  803
+            R +L     FEAAS GCL+ LSL  KT    PG+ L+HKGD L Y+Y++  GS+E++KDD
+Sbjct  579  REIL-QLPIFEAASQGCLKLLSLHIKTNFCAPGEYLIHKGDALNYIYYLCNGSMEVIKDD  637
+
+Query  804  VVMAILGKDDIFGENPCIH---TTLG---------------KSNSNVKALTYCDLHKIHR  845
+            +V+AILGK D+ G +  +H   T+ G               +S+S++KALTYCDL  IH 
+Sbjct  638  MVVAILGKGDLVGSDINVHLVATSNGQMTATTNSAGQDVVVRSSSDIKALTYCDLKCIHM  697
+
+Query  846  DDLLDVLDLFPEFYDSFVNSLE--ITYNMRD  874
+              L++VL L+PE+   F N ++  +T N+R+
+Sbjct  698  GGLVEVLRLYPEYQQQFANDIQHDLTCNLRE  728
+
+
+
+
+Range 2: 1 to 134
+
+Score:114 bits(285), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/134(37%), Positives:85/134(63%), Gaps:0/134(0%)
+
+Query  1    MPVRRGHVAPKTTLIETIIRKFDTHNRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVM  60
+            MP R+G +AP+ T ++TI  +FD  + +F++ NAQ     I++CSDGF  +TG++RA++M
+Sbjct  1    MPARKGLLAPQNTFLDTIATRFDGTHSNFVLGNAQANGNPIVYCSDGFVDLTGYSRAQIM  60
+
+Query  61   QRSACTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            Q+     FL G  T +   Q I+++L    E   E+++Y+K G+ F C   I PI++E  
+Sbjct  61   QKGCSCHFLYGPDTKEEHKQQIEKSLSNKMELKLEVIFYKKEGAPFWCLFDIVPIKNEKR  120
+
+Query  121  DISLFIINFEDLTN  134
+            D+ LF+ + +D+T+
+Sbjct  121  DVVLFLASHKDITH  134
+
+
+
+
+>putative potassium channel subunit [Drosophila melanogaster]
+Sequence ID: AAA62472.1 Length: 1284
+Range 1: 245 to 728
+
+Score:440 bits(1131), Expect:6e-133, 
+Method:Compositional matrix adjust., 
+Identities:233/511(46%), Positives:326/511(63%), Gaps:48/511(9%)
+
+Query  385  LPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNR  444
+             PEYK QS +  +  + HY  FK +WDW+IL+   Y A+  PY AAF             
+Sbjct  245  FPEYKTQSIKKSRLILPHYGVFKGIWDWVILVATFYVALMVPYNAAF-------------  291
+
+Query  445  KYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAA  504
+              AD    + D+IV+  F++DIL+NFRTTFV+ + EVVS+  +IA++YL GWF +DL+AA
+Sbjct  292  AKADRQTKVSDVIVEALFIVDILLNFRTTFVSRKGEVVSNSKQIAINYLRGWFALDLLAA  351
+
+Query  505  IPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYGAAVLVLLMA  564
+            +PFD L      D  G D       I L+K  RLLRL R+ +KIDRYS++ A +L LLM 
+Sbjct  352  LPFDHLYASDLYD--GEDSH-----IHLVKLTRLLRLARLLQKIDRYSQHTAMILTLLMF  404
+
+Query  565  TFALIAHWLACIWYAIGNAERP-FMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVT  623
+            +F L AHWLACIWY I   E   F ++ +GWL  LAE        N +    +    Y T
+Sbjct  405  SFTLAAHWLACIWYVIAVKEYEWFPESNIGWLQLLAERK------NASVAILTTAETYST  458
+
+Query  624  ALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARY  683
+            ALYFTFTSLTSVGFGNV+ NT AEK+FTI +ML+G+LM+A +FGNV+AIIQR+YS  + Y
+Sbjct  459  ALYFTFTSLTSVGFGNVSANTTAEKVFTIIMMLIGALMHAVVFGNVTAIIQRMYSRRSLY  518
+
+Query  684  HTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLN  743
+             ++   +++F+  H +P  L+QR+E+YFQ +W+ ++GID+   L+ FPE L+ D+ +HL+
+Sbjct  519  ESKWRDLKDFVALHNMPKELKQRIEDYFQTSWSLSHGIDIYETLREFPEELRGDVSMHLH  578
+
+Query  744  RNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD  803
+            R +L     FEAAS GCL+ LSL  KT    PG+ L+HKGD L Y+Y++  GS+E++KDD
+Sbjct  579  REIL-QLPIFEAASQGCLKLLSLHIKTNFCAPGEYLIHKGDALNYIYYLCNGSMEVIKDD  637
+
+Query  804  VVMAILGKDDIFGENPCIH---TTLG---------------KSNSNVKALTYCDLHKIHR  845
+            +V+AILGK D+ G +  +H   T+ G               +S+S++KALTYCDL  IH 
+Sbjct  638  MVVAILGKGDLVGSDINVHLVATSNGQMTATTNSAGQDVVVRSSSDIKALTYCDLKCIHM  697
+
+Query  846  DDLLDVLDLFPEFYDSFVNSLE--ITYNMRD  874
+              L++VL L+PE+   F N ++  +T N+R+
+Sbjct  698  GGLVEVLRLYPEYQQQFANDIQHDLTCNLRE  728
+
+
+
+
+Range 2: 1 to 134
+
+Score:114 bits(285), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/134(37%), Positives:85/134(63%), Gaps:0/134(0%)
+
+Query  1    MPVRRGHVAPKTTLIETIIRKFDTHNRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVM  60
+            MP R+G +AP+ T ++TI  +FD  + +F++ NAQ     I++CSDGF  +TG++RA++M
+Sbjct  1    MPARKGLLAPQNTFLDTIATRFDGTHSNFVLGNAQANGNPIVYCSDGFVDLTGYSRAQIM  60
+
+Query  61   QRSACTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            Q+     FL G  T +   Q I+++L    E   E+++Y+K G+ F C   I PI++E  
+Sbjct  61   QKGCSCHFLYGPDTKEEHKQQIEKSLSNKMELKLEVIFYKKEGAPFWCLFDIVPIKNEKR  120
+
+Query  121  DISLFIINFEDLTN  134
+            D+ LF+ + +D+T+
+Sbjct  121  DVVLFLASHKDITH  134
+
+
+
+
+>Eag-like K[+] channel, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001286553.1 Length: 1283
+>Eag-like K[+] channel, isoform B [Drosophila melanogaster]
+Sequence ID: AHN56349.1 Length: 1283 
+Range 1: 240 to 727
+
+Score:435 bits(1119), Expect:2e-131, 
+Method:Compositional matrix adjust., 
+Identities:232/515(45%), Positives:323/515(62%), Gaps:52/515(10%)
+
+Query  385  LPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNR  444
+             PEYK QS +  +  + HY  FK +WDW+IL+   Y A+  PY AAF             
+Sbjct  240  FPEYKTQSIKKSRLILPHYGVFKGIWDWVILVATFYVALMVPYNAAF-------------  286
+
+Query  445  KYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAA  504
+              AD    + D+IV+  F++DIL+NFRTTFV+ + EVVS+  +IA++YL GWF +DL+AA
+Sbjct  287  AKADRQTKVSDVIVEALFIVDILLNFRTTFVSRKGEVVSNSKQIAINYLRGWFALDLLAA  346
+
+Query  505  IPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSEYGAAVLVLLMA  564
+            +PFD L      D  G D       I L+K  RLLRL R+ +KIDRYS++ A +L LLM 
+Sbjct  347  LPFDHLYASDLYD--GEDSH-----IHLVKLTRLLRLARLLQKIDRYSQHTAMILTLLMF  399
+
+Query  565  TFALIAHWLACIWYAIGNAERPFMKNK-----VGWLDALAEATQEYYYANNTGGGPSIKS  619
+            +F L AHWLACIWY I   E  +          GWL  LAE        N +    +   
+Sbjct  400  SFTLAAHWLACIWYVIAVKEYEWFPESNIVFFTGWLQLLAERK------NASVAILTTAE  453
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSG  679
+             Y TALYFTFTSLTSVGFGNV+ NT AEK+FTI +ML+G+LM+A +FGNV+AIIQR+YS 
+Sbjct  454  TYSTALYFTFTSLTSVGFGNVSANTTAEKVFTIIMMLIGALMHAVVFGNVTAIIQRMYSR  513
+
+Query  680  TARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADIC  739
+             + Y ++   +++F+  H +P  L+QR+E+YFQ +W+ ++GID+   L+ FPE L+ D+ 
+Sbjct  514  RSLYESKWRDLKDFVALHNMPKELKQRIEDYFQTSWSLSHGIDIYETLREFPEELRGDVS  573
+
+Query  740  LHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEI  799
+            +HL+R +L     FEAAS GCL+ LSL  KT    PG+ L+HKGD L Y+Y++  GS+E+
+Sbjct  574  MHLHREIL-QLPIFEAASQGCLKLLSLHIKTNFCAPGEYLIHKGDALNYIYYLCNGSMEV  632
+
+Query  800  LKDDVVMAILGKDDIFGENPCIH---TTLG---------------KSNSNVKALTYCDLH  841
+            +KDD+V+AILGK D+ G +  +H   T+ G               +S+S++KALTYCDL 
+Sbjct  633  IKDDMVVAILGKGDLVGSDINVHLVATSNGQMTATTNSAGQDVVVRSSSDIKALTYCDLK  692
+
+Query  842  KIHRDDLLDVLDLFPEFYDSFVNSLE--ITYNMRD  874
+             IH   L++VL L+PE+   F N ++  +T N+R+
+Sbjct  693  CIHMGGLVEVLRLYPEYQQQFANDIQHDLTCNLRE  727
+
+
+
+
+Range 2: 1 to 134
+
+Score:114 bits(286), Expect:4e-25, 
+Method:Compositional matrix adjust., 
+Identities:50/134(37%), Positives:85/134(63%), Gaps:0/134(0%)
+
+Query  1    MPVRRGHVAPKTTLIETIIRKFDTHNRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVM  60
+            MP R+G +AP+ T ++TI  +FD  + +F++ NAQ     I++CSDGF  +TG++RA++M
+Sbjct  1    MPARKGLLAPQNTFLDTIATRFDGTHSNFVLGNAQANGNPIVYCSDGFVDLTGYSRAQIM  60
+
+Query  61   QRSACTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            Q+     FL G  T +   Q I+++L    E   E+++Y+K G+ F C   I PI++E  
+Sbjct  61   QKGCSCHFLYGPDTKEEHKQQIEKSLSNKMELKLEVIFYKKEGAPFWCLFDIVPIKNEKR  120
+
+Query  121  DISLFIINFEDLTN  134
+            D+ LF+ + +D+T+
+Sbjct  121  DVVLFLASHKDITH  134
+
+
+
+
+>ether a go-go, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001259556.1 Length: 528
+>ether a go-go, isoform E [Drosophila melanogaster]
+Sequence ID: AGB95398.1 Length: 528 
+Range 1: 184 to 526
+
+Score:344 bits(882), Expect:2e-105, 
+Method:Compositional matrix adjust., 
+Identities:170/362(47%), Positives:236/362(65%), Gaps:28/362(7%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  184  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  241
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  242  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  293
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  294  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  347
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  348  YGAAMLILLLCFYMLVAHWLACIWYSIGRSDA---DNGIQYSWLWKLANVTQSPYSYIWS  404
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  405  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  464
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  465  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  524
+
+Query  725  SV  726
+             V
+Sbjct  525  KV  526
+
+
+
+
+Range 2: 5 to 142
+
+Score:111 bits(277), Expect:8e-25, 
+Method:Compositional matrix adjust., 
+Identities:55/138(40%), Positives:86/138(62%), Gaps:3/138(2%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLTNPTSP  138
+             + LF++ F D+T    P
+Sbjct  125  LVVLFLLTFRDITALKQP  142
+
+
+
+
+>ether a go-go, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001188591.1 Length: 530
+>ether a go-go, isoform C [Drosophila melanogaster]
+Sequence ID: ADV37673.1 Length: 530
+>FI21226p1 [Drosophila melanogaster]
+Sequence ID: AGV77183.1 Length: 530 
+Range 1: 186 to 528
+
+Score:343 bits(880), Expect:3e-105, 
+Method:Compositional matrix adjust., 
+Identities:170/362(47%), Positives:236/362(65%), Gaps:28/362(7%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  186  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  243
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  244  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  295
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  296  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  349
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  350  YGAAMLILLLCFYMLVAHWLACIWYSIGRSDA---DNGIQYSWLWKLANVTQSPYSYIWS  406
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  407  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  466
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  467  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  526
+
+Query  725  SV  726
+             V
+Sbjct  527  KV  528
+
+
+
+
+Range 2: 5 to 142
+
+Score:111 bits(277), Expect:9e-25, 
+Method:Compositional matrix adjust., 
+Identities:55/138(40%), Positives:86/138(62%), Gaps:3/138(2%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLTNPTSP  138
+             + LF++ F D+T    P
+Sbjct  125  LVVLFLLTFRDITALKQP  142
+
+
+
+
+>ether a go-go, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001259557.1 Length: 537
+>ether a go-go, isoform F [Drosophila melanogaster]
+Sequence ID: AGB95399.1 Length: 537 
+Range 1: 193 to 535
+
+Score:343 bits(880), Expect:4e-105, 
+Method:Compositional matrix adjust., 
+Identities:170/362(47%), Positives:236/362(65%), Gaps:28/362(7%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD++P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  193  LAHMMSLSADIMPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  250
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  251  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  302
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  303  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  356
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  357  YGAAMLILLLCFYMLVAHWLACIWYSIGRSDA---DNGIQYSWLWKLANVTQSPYSYIWS  413
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD EK+FTIC+M++ +L+YA+
+Sbjct  414  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNEKVFTICMMIIAALLYAT  473
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  474  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  533
+
+Query  725  SV  726
+             V
+Sbjct  534  KV  535
+
+
+
+
+Range 2: 5 to 142
+
+Score:111 bits(277), Expect:9e-25, 
+Method:Compositional matrix adjust., 
+Identities:55/138(40%), Positives:86/138(62%), Gaps:3/138(2%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLTNPTSP  138
+             + LF++ F D+T    P
+Sbjct  125  LVVLFLLTFRDITALKQP  142
+
+
+
+
+>IP03413p [Drosophila melanogaster]
+Sequence ID: ACV44470.1 Length: 529
+Range 1: 186 to 527
+
+Score:337 bits(863), Expect:8e-103, 
+Method:Compositional matrix adjust., 
+Identities:169/362(47%), Positives:235/362(64%), Gaps:29/362(8%)
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A ++SL AD +P+Y+ ++P+     +LHY  FKA+WDW+IL L  YTAI  PY  AF  
+Sbjct  186  LAHMMSLSAD-MPQYRQEAPKTPPHILLHYCAFKAIWDWVILCLTFYTAIMVPYNVAF--  242
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYL  493
+                    KN+   D  ++++D IVDV F IDI++NF TTFV    EVVS P  I ++YL
+Sbjct  243  --------KNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIRMNYL  294
+
+Query  494  SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVARKIDRYSE  553
+              WF+IDL++ +P+D+       +    D+D   +L   LK  RLLRL RV RK+DRY E
+Sbjct  295  KSWFIIDLLSCLPYDVF------NAFDRDEDGIGSLFSALKVVRLLRLGRVVRKLDRYLE  348
+
+Query  554  YGAAVLVLLMATFALIAHWLACIWYAIGNAERPFMKNKV--GWLDALAEATQE---YYYA  608
+            YGAA+L+LL+  + L+AHWLACIWY+IG ++     N +   WL  LA  TQ    Y ++
+Sbjct  349  YGAAMLILLLCFYMLVAHWLACIWYSIGRSDA---DNGIQYSWLWKLANVTQSPYSYIWS  405
+
+Query  609  NNTG----GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYAS  664
+            N+TG     GPS KS YVTALYFT T +TSVGFGNVA  TD E++FTIC+M++ +L+YA+
+Sbjct  406  NDTGPELVNGPSRKSMYVTALYFTMTCMTSVGFGNVAAETDNERVFTICMMIIAALLYAT  465
+
+Query  665  IFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMN  724
+            IFG+V+ IIQ++ S TA+YH  +  VREF++ H++P  L +R+ +Y    W  T G+D  
+Sbjct  466  IFGHVTTIIQQMTSATAKYHDMLNNVREFMKLHEVPKALSERVMDYVVSTWAMTKGLDTE  525
+
+Query  725  SV  726
+             V
+Sbjct  526  KV  527
+
+
+
+
+Range 2: 5 to 290
+
+Score:112 bits(279), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:87/291(30%), Positives:139/291(47%), Gaps:32/291(10%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLT---NPTSPEPIEPKTHHRSFLSVDRARASFRQSFRIGHIALRD--RG  175
+             + LF++ F D+T    P   E  +       F  + R+    RQ F      L+D  + 
+Sbjct  125  LVVLFLLTFRDITALKQPIDSEDTKGVLGLSKFAKLARSVTRSRQ-FSAHLPTLKDPTKQ  183
+
+Query  176  LRLAGYLTPPSDATQEEEEIGINKSAIERYNFMGFCSDRVSQTTV---LKVETNIWAPMS  232
+              LA  ++  +D  Q  +E       I     + +C+ +     V   L   T I  P +
+Sbjct  184  SNLAHMMSLSADMPQYRQEAPKTPPHI----LLHYCAFKAIWDWVILCLTFYTAIMVPYN  239
+
+Query  233  TPALTRTKE---LEALQADVD-------------TLSGPGEIVITTPEVAK  267
+                 +T E   L  + + VD             T  GPG  V++ P+V +
+Sbjct  240  VAFKNKTSEDVSLLVVDSIVDVIFFIDIVLNFHTTFVGPGGEVVSDPKVIR  290
+
+
+
+
+>cyclic nucleotide-gated ion channel subunit A, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001188960.1 Length: 840
+>cyclic nucleotide-gated ion channel subunit A, isoform B [Drosophila melanogaster]
+Sequence ID: ADV37206.1 Length: 840 
+Range 1: 285 to 715
+
+Score:176 bits(446), Expect:1e-44, 
+Method:Compositional matrix adjust., 
+Identities:124/466(27%), Positives:225/466(48%), Gaps:53/466(11%)
+
+Query  410  WDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILIN  469
+            W  I+ + V+Y  IF    A F     + N     K A      +D + D  +++D L++
+Sbjct  285  WLAIVSLAVLYNIIFVVGRAVFW----EIN-----KSAPAFWYTLDYLCDFIYLLDTLVH  335
+
+Query  470  FRTTFVNGQDEVVSHPGRIAVHYL--SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETT  527
+                F++ Q  +V    R+  HY    GW+L D+++ +P DL  +            ET 
+Sbjct  336  MHEGFLD-QGLLVRDAFRLRRHYFHTKGWYL-DVLSMLPTDLAYIWW--------PPETC  385
+
+Query  528  TLIGL-----LKTARLLRLVRVARKIDR---YSEYGAAVLV--LLMATFALIAHWLACIW  577
+            + + L     ++  RLLR+ R+    DR    + Y  A  +  +++A   LI HW AC++
+Sbjct  386  SSLYLPCPVIVRLNRLLRINRLWEWFDRTETATGYPNAFRICKVVLAILVLI-HWNACMY  444
+
+Query  578  YAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGF  637
+            +AI          ++G+      ++  + Y  N     +++ +Y+ + Y++  +LT++G 
+Sbjct  445  FAI--------SYEIGF------SSDSWVYNLNGTRNNTLQRQYIYSFYWSTLTLTTIG-  489
+
+Query  638  GNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFH  697
+                P  D E +F +   L G L++A+I GN+ ++I  +      +  +M  V++++ F 
+Sbjct  490  ETPTPENDVEYLFVVADFLAGVLIFATIVGNIGSMISNMNVARVEFQNRMDGVKQYMAFR  549
+
+Query  698  QIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAAS  757
+            ++ + L  R+  +F + W+ +  +D   VL   P+ L+A+I + ++ + L     F    
+Sbjct  550  RVGHELEARVIRWFAYTWSQSGALDEERVLAALPDKLKAEIAIQVHMDTLKQVRIFHDTE  609
+
+Query  758  PGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD--VVMAILGKDDIF  815
+            PG L AL LK K     PGD +  KGDV   +Y + RG + ++ DD   V+A LG   +F
+Sbjct  610  PGLLEALVLKLKLQVFSPGDYICRKGDVGKEMYIVKRGKLSVVGDDGITVLATLGAGSVF  669
+
+Query  816  GENPCI----HTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFPE  857
+            GE   +    + T  +  +NV++L Y DL  + + DL + L  +PE
+Sbjct  670  GEVSVLEIAGNRTGNRRTANVRSLGYSDLFCLAKRDLWETLSDYPE  715
+
+
+
+
+>CNG channel [Drosophila melanogaster]
+Sequence ID: CAA61760.1 Length: 665
+Range 1: 110 to 540
+
+Score:172 bits(436), Expect:4e-44, 
+Method:Compositional matrix adjust., 
+Identities:124/466(27%), Positives:225/466(48%), Gaps:53/466(11%)
+
+Query  410  WDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILIN  469
+            W  I+ + V+Y  IF    A F     + N     K A      +D + D  +++D L++
+Sbjct  110  WLAIVSLAVLYNIIFVVGRAVFW----EIN-----KSAPAFWYTLDYLCDFIYLLDTLVH  160
+
+Query  470  FRTTFVNGQDEVVSHPGRIAVHYL--SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETT  527
+                F++ Q  +V    R+  HY    GW+L D+++ +P DL  +            ET 
+Sbjct  161  MHEGFLD-QGLLVRDAFRLRRHYFHTKGWYL-DVLSMLPTDLAYIWW--------PPETC  210
+
+Query  528  TLIGL-----LKTARLLRLVRVARKIDR---YSEYGAAVLV--LLMATFALIAHWLACIW  577
+            + + L     ++  RLLR+ R+    DR    + Y  A  +  +++A   LI HW AC++
+Sbjct  211  SSLYLPCPVIVRLNRLLRINRLWEWFDRTETATGYPNAFRICKVVLAILVLI-HWNACMY  269
+
+Query  578  YAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGF  637
+            +AI          ++G+      ++  + Y  N     +++ +Y+ + Y++  +LT++G 
+Sbjct  270  FAISY--------EIGF------SSDSWVYNLNGTRNNTLQRQYIYSFYWSTLTLTTIG-  314
+
+Query  638  GNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFH  697
+                P  D E +F +   L G L++A+I GN+ ++I  +      +  +M  V++++ F 
+Sbjct  315  ETPTPENDVEYLFVVADFLAGVLIFATIVGNIGSMISNMNVARVEFQNRMDGVKQYMAFR  374
+
+Query  698  QIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAAS  757
+            ++ + L  R+  +F + W+ +  +D   VL   P+ L+A+I + ++ + L     F    
+Sbjct  375  RVGHELEARVIRWFAYTWSQSGALDEERVLAALPDKLKAEIAIQVHMDTLKQVRIFHDTE  434
+
+Query  758  PGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD--VVMAILGKDDIF  815
+            PG L AL LK K     PGD +  KGDV   +Y + RG + ++ DD   V+A LG   +F
+Sbjct  435  PGLLEALVLKLKLQVFSPGDYICRKGDVGKEMYIVKRGKLSVVGDDGITVLATLGAGSVF  494
+
+Query  816  GENPCI----HTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFPE  857
+            GE   +    + T  +  +NV++L Y DL  + + DL + L  +PE
+Sbjct  495  GEVSVLEIAGNRTGNRRTANVRSLGYSDLFCLAKRDLWETLSDYPE  540
+
+
+
+
+>cyclic nucleotide-gated ion channel subunit A, isoform A [Drosophila melanogaster]
+Sequence ID: NP_477116.1 Length: 665
+>RecName: Full=Cyclic nucleotide-gated cation channel subunit A; AltName: Full=Cyclic nucleotide-gated ion channel subunit A; Short=CNG channel [Drosophila melanogaster]
+Sequence ID: Q24278.2 Length: 665
+>cyclic nucleotide-gated ion channel subunit A, isoform A [Drosophila melanogaster]
+Sequence ID: AAF58033.1 Length: 665 
+Range 1: 110 to 540
+
+Score:172 bits(435), Expect:4e-44, 
+Method:Compositional matrix adjust., 
+Identities:124/466(27%), Positives:225/466(48%), Gaps:53/466(11%)
+
+Query  410  WDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILIN  469
+            W  I+ + V+Y  IF    A F     + N     K A      +D + D  +++D L++
+Sbjct  110  WLAIVSLAVLYNIIFVVGRAVFW----EIN-----KSAPAFWYTLDYLCDFIYLLDTLVH  160
+
+Query  470  FRTTFVNGQDEVVSHPGRIAVHYL--SGWFLIDLVAAIPFDLLLVGSDTDELGLDKDETT  527
+                F++ Q  +V    R+  HY    GW+L D+++ +P DL  +            ET 
+Sbjct  161  MHEGFLD-QGLLVRDAFRLRRHYFHTKGWYL-DVLSMLPTDLAYIWW--------PPETC  210
+
+Query  528  TLIGL-----LKTARLLRLVRVARKIDR---YSEYGAAVLV--LLMATFALIAHWLACIW  577
+            + + L     ++  RLLR+ R+    DR    + Y  A  +  +++A   LI HW AC++
+Sbjct  211  SSLYLPCPVIVRLNRLLRINRLWEWFDRTETATGYPNAFRICKVVLAILVLI-HWNACMY  269
+
+Query  578  YAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGF  637
+            +AI          ++G+      ++  + Y  N     +++ +Y+ + Y++  +LT++G 
+Sbjct  270  FAISY--------EIGF------SSDSWVYNLNGTRNNTLQRQYIYSFYWSTLTLTTIG-  314
+
+Query  638  GNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFH  697
+                P  D E +F +   L G L++A+I GN+ ++I  +      +  +M  V++++ F 
+Sbjct  315  ETPTPENDVEYLFVVADFLAGVLIFATIVGNIGSMISNMNVARVEFQNRMDGVKQYMAFR  374
+
+Query  698  QIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAAS  757
+            ++ + L  R+  +F + W+ +  +D   VL   P+ L+A+I + ++ + L     F    
+Sbjct  375  RVGHELEARVIRWFAYTWSQSGALDEERVLAALPDKLKAEIAIQVHMDTLKQVRIFHDTE  434
+
+Query  758  PGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEILKDD--VVMAILGKDDIF  815
+            PG L AL LK K     PGD +  KGDV   +Y + RG + ++ DD   V+A LG   +F
+Sbjct  435  PGLLEALVLKLKLQVFSPGDYICRKGDVGKEMYIVKRGKLSVVGDDGITVLATLGAGSVF  494
+
+Query  816  GENPCI----HTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFPE  857
+            GE   +    + T  +  +NV++L Y DL  + + DL + L  +PE
+Sbjct  495  GEVSVLEIAGNRTGNRRTANVRSLGYSDLFCLAKRDLWETLSDYPE  540
+
+
+
+
+>hyperpolarization-activated ion channel variant DMIH-A1B1C1 [Drosophila melanogaster]
+Sequence ID: AAX78393.1 Length: 1282
+Range 1: 736 to 1182
+
+Score:171 bits(433), Expect:1e-42, 
+Method:Compositional matrix adjust., 
+Identities:125/486(26%), Positives:225/486(46%), Gaps:66/486(13%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  736   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  784
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  785   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  840
+
+Query  516   TDELGLDKDETTTLIGLLKTARLLRLVRVAR-----------KIDRYSEYGAAVLVLLMA  564
+                L  ++D + +   +L   R LR++R+A+           ++ RY      V  L MA
+Sbjct  841   ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNMA  896
+
+Query  565   T-----------FALIAHWLACIWYAIGNAERPFMKN--KVGWLDALAEATQEYYYANNT  611
+             +             LI HW  C+ + +     P ++      W+ ++ E  + Y+     
+Sbjct  897   SVFMRIFNLICMMLLIGHWSGCLQFLV-----PMLQGFPSNSWV-SINELQESYWL----  946
+
+Query  612   GGGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSA  671
+                     +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + 
+Sbjct  947   -------EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATN  999
+
+Query  672   IIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFP  731
+             +IQ L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    
+Sbjct  1000  LIQSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELS  1058
+
+Query  732   ECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYF  791
+             E L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YF
+Sbjct  1059  EKLREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYF  1118
+
+Query  792   IARGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLD  850
+             I  G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    
+Sbjct  1119  IQEGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNC  1176
+
+Query  851   VLDLFP  856
+             VLD +P
+Sbjct  1177  VLDQYP  1182
+
+
+
+
+>I[[h]] channel, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001033947.1 Length: 1290
+>I[[h]] channel, isoform B [Drosophila melanogaster]
+Sequence ID: ABC66058.1 Length: 1290 
+Range 1: 744 to 1190
+
+Score:171 bits(433), Expect:1e-42, 
+Method:Compositional matrix adjust., 
+Identities:125/486(26%), Positives:225/486(46%), Gaps:66/486(13%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  744   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  792
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  793   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  848
+
+Query  516   TDELGLDKDETTTLIGLLKTARLLRLVRVAR-----------KIDRYSEYGAAVLVLLMA  564
+                L  ++D + +   +L   R LR++R+A+           ++ RY      V  L MA
+Sbjct  849   ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNMA  904
+
+Query  565   T-----------FALIAHWLACIWYAIGNAERPFMKN--KVGWLDALAEATQEYYYANNT  611
+             +             LI HW  C+ + +     P ++      W+ ++ E  + Y+     
+Sbjct  905   SVFMRIFNLICMMLLIGHWSGCLQFLV-----PMLQGFPSNSWV-SINELQESYWL----  954
+
+Query  612   GGGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSA  671
+                     +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + 
+Sbjct  955   -------EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATN  1007
+
+Query  672   IIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFP  731
+             +IQ L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    
+Sbjct  1008  LIQSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELS  1066
+
+Query  732   ECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYF  791
+             E L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YF
+Sbjct  1067  EKLREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYF  1126
+
+Query  792   IARGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLD  850
+             I  G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    
+Sbjct  1127  IQEGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNC  1184
+
+Query  851   VLDLFP  856
+             VLD +P
+Sbjct  1185  VLDQYP  1190
+
+
+
+
+>I[[h]] channel, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001137667.1 Length: 1295
+>I[[h]] channel, isoform F [Drosophila melanogaster]
+Sequence ID: ACL83121.1 Length: 1295 
+Range 1: 744 to 1195
+
+Score:170 bits(431), Expect:2e-42, 
+Method:Compositional matrix adjust., 
+Identities:124/487(25%), Positives:225/487(46%), Gaps:63/487(12%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  744   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  792
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  793   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  852
+
+Query  515   DTDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAV  558
+                +L    D       +L   R LR++R+A+                + ++ E Y   +
+Sbjct  853   QIMKLQDFSDS----FQILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNM  908
+
+Query  559   LVLLMATF------ALIAHWLACIWYAIGNAERPFMKN--KVGWLDALAEATQEYYYANN  610
+               + M  F       LI HW  C+ + +     P ++      W+ ++ E  + Y+    
+Sbjct  909   ASVFMRIFNLICMMLLIGHWSGCLQFLV-----PMLQGFPSNSWV-SINELQESYWL---  959
+
+Query  611   TGGGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVS  670
+                      +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ +
+Sbjct  960   --------EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHAT  1011
+
+Query  671   AIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGF  730
+              +IQ L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L   
+Sbjct  1012  NLIQSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGEL  1070
+
+Query  731   PECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLY  790
+              E L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +Y
+Sbjct  1071  SEKLREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMY  1130
+
+Query  791   FIARGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLL  849
+             FI  G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D   
+Sbjct  1131  FIQEGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFN  1188
+
+Query  850   DVLDLFP  856
+              VLD +P
+Sbjct  1189  CVLDQYP  1195
+
+
+
+
+>putative voltage- and cyclic nucleotide-gated ion channel [Drosophila melanogaster]
+Sequence ID: AAD42059.1 Length: 945
+Range 1: 394 to 845
+
+Score:167 bits(423), Expect:1e-41, 
+Method:Compositional matrix adjust., 
+Identities:124/487(25%), Positives:225/487(46%), Gaps:63/487(12%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  394  WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  442
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  443  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  502
+
+Query  515  DTDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAV  558
+               +L    D       +L   R LR++R+A+                + ++ E Y   +
+Sbjct  503  QIMKLQDFSDS----FQILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNM  558
+
+Query  559  LVLLMATF------ALIAHWLACIWYAIGNAERPFMKN--KVGWLDALAEATQEYYYANN  610
+              + M  F       LI HW  C+ + +     P ++      W+ ++ E  + Y+    
+Sbjct  559  ASVFMRIFNLICMMLLIGHWSGCLQFLV-----PMLQGFPSNSWV-SINELQESYWL---  609
+
+Query  611  TGGGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVS  670
+                     +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ +
+Sbjct  610  --------EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHAT  661
+
+Query  671  AIIQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGF  730
+             +IQ L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L   
+Sbjct  662  NLIQSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGEL  720
+
+Query  731  PECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLY  790
+             E L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +Y
+Sbjct  721  SEKLREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMY  780
+
+Query  791  FIARGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLL  849
+            FI  G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D   
+Sbjct  781  FIQEGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFN  838
+
+Query  850  DVLDLFP  856
+             VLD +P
+Sbjct  839  CVLDQYP  845
+
+
+
+
+>hyperpolarization-activated ion channel variant DMIH-A3B1C1 [Drosophila melanogaster]
+Sequence ID: AAX78395.1 Length: 627
+Range 1: 81 to 527
+
+Score:160 bits(405), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:124/484(26%), Positives:225/484(46%), Gaps:62/484(12%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  81   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  129
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  130  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  185
+
+Query  516  TDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAVL  559
+               L  ++D + +   +L   R LR++R+A+                + ++ E Y   + 
+Sbjct  186  ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNMA  241
+
+Query  560  VLLMATF------ALIAHWLACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGG  613
+             + M  F       LI HW  C+ + +   +  F  N   W+ ++ E  + Y+       
+Sbjct  242  SVFMRIFNLICMMLLIGHWSGCLQFLVPMLQ-GFPSN--SWV-SINELQESYWL------  291
+
+Query  614  GPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII  673
+                  +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + +I
+Sbjct  292  -----EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATNLI  346
+
+Query  674  QRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPEC  733
+            Q L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    E 
+Sbjct  347  QSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEK  405
+
+Query  734  LQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIA  793
+            L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YFI 
+Sbjct  406  LREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQ  465
+
+Query  794  RGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVL  852
+             G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    VL
+Sbjct  466  EGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVL  523
+
+Query  853  DLFP  856
+            D +P
+Sbjct  524  DQYP  527
+
+
+
+
+>I[[h]] channel, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001033945.1 Length: 618
+>I[[h]] channel, isoform K [Drosophila melanogaster]
+Sequence ID: NP_001246318.1 Length: 618
+>I[[h]] channel, isoform J [Drosophila melanogaster]
+Sequence ID: NP_001246319.1 Length: 618
+>I[[h]] channel, isoform L [Drosophila melanogaster]
+Sequence ID: NP_001246320.1 Length: 618
+>hyperpolarization-activated ion channel variant DMIH-A2B1C1 [Drosophila melanogaster]
+Sequence ID: AAX78394.1 Length: 618
+>I[[h]] channel, isoform C [Drosophila melanogaster]
+Sequence ID: ABC66059.1 Length: 618
+>I[[h]] channel, isoform K [Drosophila melanogaster]
+Sequence ID: AFH08072.1 Length: 618
+>I[[h]] channel, isoform J [Drosophila melanogaster]
+Sequence ID: AFH08073.1 Length: 618 
+Range 1: 72 to 518
+
+Score:160 bits(404), Expect:2e-40, 
+Method:Compositional matrix adjust., 
+Identities:124/484(26%), Positives:225/484(46%), Gaps:62/484(12%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  72   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  120
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  121  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  176
+
+Query  516  TDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAVL  559
+               L  ++D + +   +L   R LR++R+A+                + ++ E Y   + 
+Sbjct  177  ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNMA  232
+
+Query  560  VLLMATF------ALIAHWLACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGG  613
+             + M  F       LI HW  C+ + +   +  F  N   W+ ++ E  + Y+       
+Sbjct  233  SVFMRIFNLICMMLLIGHWSGCLQFLVPMLQ-GFPSN--SWV-SINELQESYWL------  282
+
+Query  614  GPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII  673
+                  +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + +I
+Sbjct  283  -----EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATNLI  337
+
+Query  674  QRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPEC  733
+            Q L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    E 
+Sbjct  338  QSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEK  396
+
+Query  734  LQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIA  793
+            L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YFI 
+Sbjct  397  LREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQ  456
+
+Query  794  RGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVL  852
+             G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    VL
+Sbjct  457  EGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVL  514
+
+Query  853  DLFP  856
+            D +P
+Sbjct  515  DQYP  518
+
+
+
+
+>I[[h]] channel, isoform I [Drosophila melanogaster]
+Sequence ID: NP_001033946.2 Length: 601
+>I[[h]] channel, isoform I [Drosophila melanogaster]
+Sequence ID: ABC66060.2 Length: 601 
+Range 1: 55 to 501
+
+Score:159 bits(401), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:124/484(26%), Positives:225/484(46%), Gaps:62/484(12%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  55   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  103
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  104  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  159
+
+Query  516  TDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAVL  559
+               L  ++D + +   +L   R LR++R+A+                + ++ E Y   + 
+Sbjct  160  ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNMA  215
+
+Query  560  VLLMATF------ALIAHWLACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGG  613
+             + M  F       LI HW  C+ + +   +  F  N   W+ ++ E  + Y+       
+Sbjct  216  SVFMRIFNLICMMLLIGHWSGCLQFLVPMLQ-GFPSN--SWV-SINELQESYWL------  265
+
+Query  614  GPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII  673
+                  +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + +I
+Sbjct  266  -----EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATNLI  320
+
+Query  674  QRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPEC  733
+            Q L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    E 
+Sbjct  321  QSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEK  379
+
+Query  734  LQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIA  793
+            L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YFI 
+Sbjct  380  LREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQ  439
+
+Query  794  RGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVL  852
+             G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    VL
+Sbjct  440  EGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVL  497
+
+Query  853  DLFP  856
+            D +P
+Sbjct  498  DQYP  501
+
+
+
+
+>FI14727p [Drosophila melanogaster]
+Sequence ID: AEH59646.1 Length: 623
+Range 1: 72 to 523
+
+Score:159 bits(402), Expect:4e-40, 
+Method:Compositional matrix adjust., 
+Identities:125/485(26%), Positives:225/485(46%), Gaps:59/485(12%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  72   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  120
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  121  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  180
+
+Query  515  DTDELGLDKDETTTLIGLLKTARLLRLVRVARK---------------IDRYSE-YGAAV  558
+               +L    D       +L   R LR++R+A+                + ++ E Y   +
+Sbjct  181  QIMKLQDFSDS----FQILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYFLNM  236
+
+Query  559  LVLLMATF------ALIAHWLACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTG  612
+              + M  F       LI HW  C+ + +   +  F  N   W+ ++ E  + Y+      
+Sbjct  237  ASVFMRIFNLICMMLLIGHWSGCLQFLVPMLQ-GFPSN--SWV-SINELQESYWL-----  287
+
+Query  613  GGPSIKSRYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAI  672
+                   +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + +
+Sbjct  288  ------EQYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATNL  341
+
+Query  673  IQRLYSGTARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPE  732
+            IQ L S   +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    E
+Sbjct  342  IQSLDSSRRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELSE  400
+
+Query  733  CLQADICLHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFI  792
+             L+ D+  +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YFI
+Sbjct  401  KLREDVINYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFI  460
+
+Query  793  ARGSIEI-LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDV  851
+              G ++I + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    V
+Sbjct  461  QEGVVDIVMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCV  518
+
+Query  852  LDLFP  856
+            LD +P
+Sbjct  519  LDQYP  523
+
+
+
+
+>I[[h]] channel, isoform G [Drosophila melanogaster]
+Sequence ID: NP_001137668.1 Length: 1322
+>I[[h]] channel, isoform G [Drosophila melanogaster]
+Sequence ID: ACL83122.1 Length: 1322 
+Range 1: 744 to 1222
+
+Score:160 bits(404), Expect:4e-39, 
+Method:Compositional matrix adjust., 
+Identities:123/518(24%), Positives:228/518(44%), Gaps:98/518(18%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  744   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  792
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSD  515
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D +     
+Sbjct  793   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIF----  848
+
+Query  516   TDELGLDKDETTTLIGLLKTARLLRLVRVAR-----------------------------  546
+                L  ++D + +   +L   R LR++R+A+                             
+Sbjct  849   ---LIFNQDFSDSF-QILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYILQNL  904
+
+Query  547   ---------KIDRYSEYG-------------AAVLVLL---MATFALIAHWLACIWYAIG  581
+                      +++R  + G             A+V + +   +    LI HW  C+ + + 
+Sbjct  905   QKKSADRRGRMNRKDKDGLTKSNLILKFLNMASVFMRIFNLICMMLLIGHWSGCLQFLV-  963
+
+Query  582   NAERPFMKN--KVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGFGN  639
+                 P ++      W+ ++ E  + Y+             +Y  AL+   + +  +G+G 
+Sbjct  964   ----PMLQGFPSNSWV-SINELQESYWL-----------EQYSWALFKAMSHMLCIGYGR  1007
+
+Query  640   VAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQI  699
+               P +  +   T+  M+ G+  YA   G+ + +IQ L S   +Y  ++ +V E++ + ++
+Sbjct  1008  FPPQSLTDMWLTMLSMISGATCYALFLGHATNLIQSLDSSRRQYREKVKQVEEYMAYRKL  1067
+
+Query  700   PNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASPG  759
+             P  +RQR+ EYF+H +      D   +L    E L+ D+  +  R+L+ +   F  A   
+Sbjct  1068  PRDMRQRITEYFEHRYQ-GKFFDEELILGELSEKLREDVINYNCRSLVASVPFFANADSN  1126
+
+Query  760   CLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEI-LKDDVVMAILGKDDIFGEN  818
+              +  +  K K     PGD ++ +G + T +YFI  G ++I + +  V   L     FGE 
+Sbjct  1127  FVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQEGVVDIVMANGEVATSLSDGSYFGE-  1185
+
+Query  819   PCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+              C+ T   +  ++V+A TYC+L  +  D    VLD +P
+Sbjct  1186  ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVLDQYP  1222
+
+
+
+
+>I[[h]] channel, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001033948.1 Length: 1327
+>I[[h]] channel, isoform E [Drosophila melanogaster]
+Sequence ID: ABC66057.1 Length: 1327 
+Range 1: 744 to 1227
+
+Score:159 bits(402), Expect:6e-39, 
+Method:Compositional matrix adjust., 
+Identities:124/519(24%), Positives:228/519(43%), Gaps:95/519(18%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  744   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  792
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  793   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  852
+
+Query  515   DTDELGLDKDETTTLIGLLKTARLLRLVRVAR----------------------------  546
+                +L    D       +L   R LR++R+A+                            
+Sbjct  853   QIMKLQDFSDS----FQILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYILQN  908
+
+Query  547   ----------KIDRYSEYG-------------AAVLVLL---MATFALIAHWLACIWYAI  580
+                       +++R  + G             A+V + +   +    LI HW  C+ + +
+Sbjct  909   LQKKSADRRGRMNRKDKDGLTKSNLILKFLNMASVFMRIFNLICMMLLIGHWSGCLQFLV  968
+
+Query  581   GNAERPFMKN--KVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGFG  638
+                  P ++      W+ ++ E  + Y+             +Y  AL+   + +  +G+G
+Sbjct  969   -----PMLQGFPSNSWV-SINELQESYWL-----------EQYSWALFKAMSHMLCIGYG  1011
+
+Query  639   NVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQ  698
+                P +  +   T+  M+ G+  YA   G+ + +IQ L S   +Y  ++ +V E++ + +
+Sbjct  1012  RFPPQSLTDMWLTMLSMISGATCYALFLGHATNLIQSLDSSRRQYREKVKQVEEYMAYRK  1071
+
+Query  699   IPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASP  758
+             +P  +RQR+ EYF+H +      D   +L    E L+ D+  +  R+L+ +   F  A  
+Sbjct  1072  LPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEKLREDVINYNCRSLVASVPFFANADS  1130
+
+Query  759   GCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEI-LKDDVVMAILGKDDIFGE  817
+               +  +  K K     PGD ++ +G + T +YFI  G ++I + +  V   L     FGE
+Sbjct  1131  NFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQEGVVDIVMANGEVATSLSDGSYFGE  1190
+
+Query  818   NPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+               C+ T   +  ++V+A TYC+L  +  D    VLD +P
+Sbjct  1191  -ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVLDQYP  1227
+
+
+
+
+>hyperpolarization-activated ion channel variant DMIH-A1B2C2 [Drosophila melanogaster]
+Sequence ID: AAX78396.1 Length: 1319
+Range 1: 736 to 1219
+
+Score:159 bits(402), Expect:7e-39, 
+Method:Compositional matrix adjust., 
+Identities:124/519(24%), Positives:228/519(43%), Gaps:95/519(18%)
+
+Query  398   WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+             W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  736   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  784
+
+Query  458   VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+              D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  785   SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  844
+
+Query  515   DTDELGLDKDETTTLIGLLKTARLLRLVRVAR----------------------------  546
+                +L    D       +L   R LR++R+A+                            
+Sbjct  845   QIMKLQDFSDS----FQILHAGRALRILRLAKLLSLVRLLRLSRLVRYVSQWEEVYILQN  900
+
+Query  547   ----------KIDRYSEYG-------------AAVLVLL---MATFALIAHWLACIWYAI  580
+                       +++R  + G             A+V + +   +    LI HW  C+ + +
+Sbjct  901   LQKKSADRRGRMNRKDKDGLTKSNLILKFLNMASVFMRIFNLICMMLLIGHWSGCLQFLV  960
+
+Query  581   GNAERPFMKN--KVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLTSVGFG  638
+                  P ++      W+ ++ E  + Y+             +Y  AL+   + +  +G+G
+Sbjct  961   -----PMLQGFPSNSWV-SINELQESYWL-----------EQYSWALFKAMSHMLCIGYG  1003
+
+Query  639   NVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLRVREFIRFHQ  698
+                P +  +   T+  M+ G+  YA   G+ + +IQ L S   +Y  ++ +V E++ + +
+Sbjct  1004  RFPPQSLTDMWLTMLSMISGATCYALFLGHATNLIQSLDSSRRQYREKVKQVEEYMAYRK  1063
+
+Query  699   IPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASP  758
+             +P  +RQR+ EYF+H +      D   +L    E L+ D+  +  R+L+ +   F  A  
+Sbjct  1064  LPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEKLREDVINYNCRSLVASVPFFANADS  1122
+
+Query  759   GCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEI-LKDDVVMAILGKDDIFGE  817
+               +  +  K K     PGD ++ +G + T +YFI  G ++I + +  V   L     FGE
+Sbjct  1123  NFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQEGVVDIVMANGEVATSLSDGSYFGE  1182
+
+Query  818   NPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+               C+ T   +  ++V+A TYC+L  +  D    VLD +P
+Sbjct  1183  -ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVLDQYP  1219
+
+
+
+
+>IP03313p [Drosophila melanogaster]
+Sequence ID: ABG02141.1 Length: 238
+Range 1: 5 to 142
+
+Score:111 bits(277), Expect:7e-27, 
+Method:Compositional matrix adjust., 
+Identities:55/138(40%), Positives:86/138(62%), Gaps:3/138(2%)
+
+Query  4    RRGHVAPKTTLIETIIRKFDTH-NRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQR  62
+            RRG VAP+ T +E IIR+ ++  + SFL+ANAQ     I++C++ FCK++G+ RAEVMQ+
+Sbjct  5    RRGLVAPQNTFLENIIRRSNSQPDSSFLLANAQIVDFPIVYCNESFCKISGYNRAEVMQK  64
+
+Query  63   SA--CTEFLQGQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVD  120
+            S      F+ G++T +  V  ++  L   ++  FEIL Y+KN +       +APIR+E D
+Sbjct  65   SCRYVCGFMYGELTDKETVGRLEYTLENQQQDQFEILLYKKNKTPLWLLLQVAPIRNERD  124
+
+Query  121  DISLFIINFEDLTNPTSP  138
+             + LF++ F D+T    P
+Sbjct  125  LVVLFLLTFRDITALKQP  142
+
+
+
+
+>RE10840p [Drosophila melanogaster]
+Sequence ID: AAN71302.1 Length: 388
+Range 1: 11 to 288
+
+Score:109 bits(273), Expect:5e-25, 
+Method:Compositional matrix adjust., 
+Identities:76/298(26%), Positives:140/298(46%), Gaps:23/298(7%)
+
+Query  562  LMATFALIAHWLACIWYAIGNAERPFMKN--KVGWLDALAEATQEYYYANNTGGGPSIKS  619
+            L+    LI HW  C+ + +     P ++      W+ ++ E  + Y+             
+Sbjct  11   LICMMLLIGHWSGCLQFLV-----PMLQGFPSNSWV-SINELQESYWL-----------E  53
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSG  679
+            +Y  AL+   + +  +G+G   P +  +   T+  M+ G+  YA   G+ + +IQ L S 
+Sbjct  54   QYSWALFKAMSHMLCIGYGRFPPQSLTDMWLTMLSMISGATCYALFLGHATNLIQSLDSS  113
+
+Query  680  TARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADIC  739
+              +Y  ++ +V E++ + ++P  +RQR+ EYF+H +      D   +L    E L+ D+ 
+Sbjct  114  RRQYREKVKQVEEYMAYRKLPRDMRQRITEYFEHRYQ-GKFFDEELILGELSEKLREDVI  172
+
+Query  740  LHLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEI  799
+             +  R+L+ +   F  A    +  +  K K     PGD ++ +G + T +YFI  G ++I
+Sbjct  173  NYNCRSLVASVPFFANADSNFVSDVVTKLKYEVFQPGDIIIKEGTIGTKMYFIQEGVVDI  232
+
+Query  800  -LKDDVVMAILGKDDIFGENPCIHTTLGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+             + +  V   L     FGE  C+ T   +  ++V+A TYC+L  +  D    VLD +P
+Sbjct  233  VMANGEVATSLSDGSYFGE-ICLLTN-ARRVASVRAETYCNLFSLSVDHFNCVLDQYP  288
+
+
+
+
+>Chain A, Eag-like K[+] channel [Drosophila melanogaster]
+Sequence ID: 4HP4_A Length: 130
+>Chain B, Eag-like K[+] channel [Drosophila melanogaster]
+Sequence ID: 4HP4_B Length: 130 
+Range 1: 5 to 128
+
+Score:91.3 bits(225), Expect:4e-21, 
+Method:Compositional matrix adjust., 
+Identities:43/124(35%), Positives:71/124(57%), Gaps:0/124(0%)
+
+Query  11   KTTLIETIIRKFDTHNRSFLVANAQPESCHIIFCSDGFCKMTGFTRAEVMQRSACTEFLQ  70
+            + T ++TI  +FD  + +F++ NAQ     I++CSDGF  +TG++RA++MQ      FL 
+Sbjct  5    QNTFLDTIATRFDGTHSNFVLGNAQANGNPIVYCSDGFVDLTGYSRAQIMQXGCSCHFLY  64
+
+Query  71   GQMTSQAVVQSIKEALRKGEEKHFEILYYRKNGSKFLCSEVIAPIRSEVDDISLFIINFE  130
+            G  T +   Q I+ +L    E   E+++Y   G+ F C   I PI +E  D+ LF+ +  
+Sbjct  65   GPDTXEEHXQQIEXSLSNXMELXLEVIFYXXEGAPFWCLFDIVPIXNEXRDVVLFLASHX  124
+
+Query  131  DLTN  134
+            D+T+
+Sbjct  125  DITH  128
+
+
+
+
+>cyclic nucleotide-gated ion channel subunit B, isoform B [Drosophila melanogaster]
+Sequence ID: NP_001286693.1 Length: 987
+>cyclic nucleotide-gated ion channel subunit B, isoform B [Drosophila melanogaster]
+Sequence ID: AHN56488.1 Length: 987 
+Range 1: 592 to 830
+
+Score:99.8 bits(247), Expect:1e-20, 
+Method:Compositional matrix adjust., 
+Identities:59/240(25%), Positives:108/240(45%), Gaps:5/240(2%)
+
+Query  621  YVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGT  680
+            YV    F   + TS+G  N  P    E +F     L+G  ++A + G +  II       
+Sbjct  592  YVRCFAFATKTATSIG-KNPKPERQGEYVFMTVAWLMGVFVFALLIGQIRDIISTATRNK  650
+
+Query  681  ARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICL  740
+              Y        E++R   +   ++ R++ +FQ  W     +D +++L   P  L+ DI +
+Sbjct  651  HEYRQLEDETLEYMRRLNLSQEVQSRVKMWFQFTWEQQRTLDESNILDALPINLKTDIAI  710
+
+Query  741  HLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEIL  800
+             ++   L+    F       LR L LK +     PGD +  KG+V   +Y +  G ++++
+Sbjct  711  SVHIQTLSKVQLFADCEEALLRDLVLKLRAVTFLPGDFVCRKGEVGREMYIVKLGQVQVM  770
+
+Query  801  ---KDDVVMAILGKDDIFGENPCIHTT-LGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+                 DVV+A L +  +FGE   +      +  ++V++  Y +L  + + DL +V+  +P
+Sbjct  771  GGPSSDVVLATLTEGSVFGEISLLGINGADRRTADVRSKGYSNLFVLSKSDLNEVIAYYP  830
+
+
+
+
+>cyclic nucleotide-gated ion channel subunit B, isoform A [Drosophila melanogaster]
+Sequence ID: NP_611607.2 Length: 1040
+>cyclic nucleotide-gated ion channel subunit B, isoform A [Drosophila melanogaster]
+Sequence ID: AAF46757.2 Length: 1040
+>GH25102p [Drosophila melanogaster]
+Sequence ID: AAN71194.1 Length: 1040 
+Range 1: 645 to 883
+
+Score:99.8 bits(247), Expect:1e-20, 
+Method:Compositional matrix adjust., 
+Identities:59/240(25%), Positives:108/240(45%), Gaps:5/240(2%)
+
+Query  621  YVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGT  680
+            YV    F   + TS+G  N  P    E +F     L+G  ++A + G +  II       
+Sbjct  645  YVRCFAFATKTATSIG-KNPKPERQGEYVFMTVAWLMGVFVFALLIGQIRDIISTATRNK  703
+
+Query  681  ARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICL  740
+              Y        E++R   +   ++ R++ +FQ  W     +D +++L   P  L+ DI +
+Sbjct  704  HEYRQLEDETLEYMRRLNLSQEVQSRVKMWFQFTWEQQRTLDESNILDALPINLKTDIAI  763
+
+Query  741  HLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEIL  800
+             ++   L+    F       LR L LK +     PGD +  KG+V   +Y +  G ++++
+Sbjct  764  SVHIQTLSKVQLFADCEEALLRDLVLKLRAVTFLPGDFVCRKGEVGREMYIVKLGQVQVM  823
+
+Query  801  ---KDDVVMAILGKDDIFGENPCIHTT-LGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+                 DVV+A L +  +FGE   +      +  ++V++  Y +L  + + DL +V+  +P
+Sbjct  824  GGPSSDVVLATLTEGSVFGEISLLGINGADRRTADVRSKGYSNLFVLSKSDLNEVIAYYP  883
+
+
+
+
+>GH17414p [Drosophila melanogaster]
+Sequence ID: AAL28273.1 Length: 515
+Range 1: 120 to 358
+
+Score:97.1 bits(240), Expect:2e-20, 
+Method:Compositional matrix adjust., 
+Identities:59/240(25%), Positives:108/240(45%), Gaps:5/240(2%)
+
+Query  621  YVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGT  680
+            YV    F   + TS+G  N  P    E +F     L+G  ++A + G +  II       
+Sbjct  120  YVRCFAFATKTATSIG-KNPKPERQGEYVFMTVAWLMGVFVFALLIGQIRDIISTATRNK  178
+
+Query  681  ARYHTQMLRVREFIRFHQIPNPLRQRLEEYFQHAWTYTNGIDMNSVLKGFPECLQADICL  740
+              Y        E++R   +   ++ R++ +FQ  W     +D +++L   P  L+ DI +
+Sbjct  179  HEYRQLEDETLEYMRRLNLSQEVQSRVKMWFQFTWEQQRTLDESNILDALPINLKTDIAI  238
+
+Query  741  HLNRNLLNNCSAFEAASPGCLRALSLKFKTTHAPPGDTLVHKGDVLTYLYFIARGSIEIL  800
+             ++   L+    F       LR L LK +     PGD +  KG+V   +Y +  G ++++
+Sbjct  239  SVHIQTLSKVQLFADCEEALLRDLVLKLRAVTFLPGDFVCRKGEVGREMYIVKLGQVQVM  298
+
+Query  801  ---KDDVVMAILGKDDIFGENPCIHTT-LGKSNSNVKALTYCDLHKIHRDDLLDVLDLFP  856
+                 DVV+A L +  +FGE   +      +  ++V++  Y +L  + + DL +V+  +P
+Sbjct  299  GGPSSDVVLATLTEGSVFGEISLLGINGADRRTADVRSKGYSNLFVLSKSDLNEVIAYYP  358
+
+
+
+
+>I[[h]] channel, isoform H [Drosophila melanogaster]
+Sequence ID: NP_001137669.1 Length: 917
+>I[[h]] channel, isoform H [Drosophila melanogaster]
+Sequence ID: ACL83123.1 Length: 917 
+Range 1: 744 to 880
+
+Score:77.8 bits(190), Expect:7e-14, 
+Method:Compositional matrix adjust., 
+Identities:45/152(30%), Positives:78/152(51%), Gaps:18/152(11%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  744  WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  792
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  793  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  852
+
+Query  515  DTDELGLDKDETTTLIGLLKTARLLRLVRVAR  546
+               +L    D       +L   R LR++R+A+
+Sbjct  853  QIMKLQDFSDS----FQILHAGRALRILRLAK  880
+
+
+
+
+>MIP19354p, partial [Drosophila melanogaster]
+Sequence ID: ADI72914.1 Length: 329
+Range 1: 83 to 292
+
+Score:69.3 bits(168), Expect:5e-12, 
+Method:Compositional matrix adjust., 
+Identities:59/236(25%), Positives:108/236(45%), Gaps:32/236(13%)
+
+Query  317  SDLQRYKAVPLKQNSSHEPRTSSSLSNVPSDSTKTKQDNGSAK---YFQGTRQTINMGEK  373
+            +++  +  V L      EP     + N+P  S K   +   ++   +FQ T        +
+Sbjct  83   TEMVHFDDVSLYGTPKEEP-----MPNIPIVSEKVSANFLKSQLQSWFQPT------DNR  131
+
+Query  374  VAQVLSLGADVLPEYKLQSPRVHKWTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLL  433
+            +A  L      L + +++      W I   S F+  WD  +L+L++   I  P   +F  
+Sbjct  132  LAMKLFGSRKALVKERIRQKTSGHWVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF--  189
+
+Query  434  GEPDFNQRKNRKYADDPIVIIDLIVDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVH  491
+                FN   + ++     +  + + D  F+IDI++NFRT  +  +  ++V+  P  IA H
+Sbjct  190  ----FNDDLSTRW-----IAFNCLSDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKH  240
+
+Query  492  YLSGWFLIDLVAAIPFD-LLLVGSDTDELGLDKDETTTLIGLLKTARLLRLVRVAR  546
+            YL  WF +DL+++IP D + L+ +   +L    D       +L   R LR++R+A+
+Sbjct  241  YLRTWFFLDLISSIPLDYIFLIFNQIMKLQDFSDS----FQILHAGRALRILRLAK  292
+
+
+
+
+>I[[h]] channel, isoform M [Drosophila melanogaster]
+Sequence ID: NP_001246317.1 Length: 245
+>GH23838p [Drosophila melanogaster]
+Sequence ID: AAL25381.1 Length: 245
+>I[[h]] channel, isoform M [Drosophila melanogaster]
+Sequence ID: AFH08071.1 Length: 245 
+Range 1: 72 to 208
+
+Score:67.0 bits(162), Expect:1e-11, 
+Method:Compositional matrix adjust., 
+Identities:45/152(30%), Positives:78/152(51%), Gaps:18/152(11%)
+
+Query  398  WTILHYSPFKAVWDWIILILVMYTAIFTPYVAAFLLGEPDFNQRKNRKYADDPIVIIDLI  457
+            W I   S F+  WD  +L+L++   I  P   +F      FN   + ++     +  + +
+Sbjct  72   WVIHPCSSFRFYWDLCMLLLLVANLIILPVAISF------FNDDLSTRW-----IAFNCL  120
+
+Query  458  VDVTFVIDILINFRTTFV--NGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFD-LLLVGS  514
+             D  F+IDI++NFRT  +  +  ++V+  P  IA HYL  WF +DL+++IP D + L+ +
+Sbjct  121  SDTIFLIDIVVNFRTGIMQQDNAEQVILDPKLIAKHYLRTWFFLDLISSIPLDYIFLIFN  180
+
+Query  515  DTDELGLDKDETTTLIGLLKTARLLRLVRVAR  546
+               +L    D       +L   R LR++R+A+
+Sbjct  181  QIMKLQDFSDS----FQILHAGRALRILRLAK  208
+
+
+
+
+>TWIK-related acid-sensitive K[+] channel 6, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001262541.1 Length: 408
+>TWIK-related acid-sensitive K[+] channel 6, isoform C [Drosophila melanogaster]
+Sequence ID: NP_650300.2 Length: 408
+>TWIK-related acid-sensitive K[+] channel 6, isoform C [Drosophila melanogaster]
+Sequence ID: AAF54970.2 Length: 408
+>TWIK-related acid-sensitive K[+] channel 6, isoform F [Drosophila melanogaster]
+Sequence ID: AGB95923.1 Length: 408
+>acid-sensitive two pore domain K+ channel dTASK-6 [Drosophila melanogaster]
+Sequence ID: CAI72672.1 Length: 408 
+Range 1: 79 to 153
+
+Score:43.5 bits(101), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:21/75(28%), Positives:40/75(53%), Gaps:0/75(0%)
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSG  679
+            ++  A Y+  T LT++G+G+  P+T   K+FT+C  +VG  +   +F ++   + RL S 
+Sbjct  79   KFTGAFYYATTVLTTIGYGHSTPSTVGGKLFTMCYAIVGIPLGLVMFQSIGERVNRLSSY  138
+
+Query  680  TARYHTQMLRVREFI  694
+              +     LR +  +
+Sbjct  139  VIKAVRSSLRCKRTV  153
+
+
+
+
+>TWIK-related acid-sensitive K[+] channel 6, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001262539.1 Length: 397
+>TWIK-related acid-sensitive K[+] channel 6, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001262540.1 Length: 397
+>TWIK-related acid-sensitive K[+] channel 6, isoform D [Drosophila melanogaster]
+Sequence ID: AGB95921.1 Length: 397
+>TWIK-related acid-sensitive K[+] channel 6, isoform E [Drosophila melanogaster]
+Sequence ID: AGB95922.1 Length: 397 
+Range 1: 79 to 153
+
+Score:43.1 bits(100), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:21/75(28%), Positives:40/75(53%), Gaps:0/75(0%)
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSG  679
+            ++  A Y+  T LT++G+G+  P+T   K+FT+C  +VG  +   +F ++   + RL S 
+Sbjct  79   KFTGAFYYATTVLTTIGYGHSTPSTVGGKLFTMCYAIVGIPLGLVMFQSIGERVNRLSSY  138
+
+Query  680  TARYHTQMLRVREFI  694
+              +     LR +  +
+Sbjct  139  VIKAVRSSLRCKRTV  153
+
+
+
+
+>slowpoke, isoform V [Drosophila melanogaster]
+Sequence ID: NP_001262926.1 Length: 1135
+>slowpoke, isoform V [Drosophila melanogaster]
+Sequence ID: AGB96306.1 Length: 1135 
+Range 1: 150 to 335
+
+Score:43.5 bits(101), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  150  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  193
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  194  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  247
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  248  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  283
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  284  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  335
+
+
+
+
+>slowpoke, isoform O [Drosophila melanogaster]
+Sequence ID: NP_001014653.1 Length: 1164
+>slowpoke, isoform O [Drosophila melanogaster]
+Sequence ID: AAX52986.1 Length: 1164 
+Range 1: 167 to 352
+
+Score:43.5 bits(101), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  352
+
+
+
+
+>slowpoke, isoform H [Drosophila melanogaster]
+Sequence ID: NP_001014660.1 Length: 1175
+>slowpoke, isoform H [Drosophila melanogaster]
+Sequence ID: AAX52985.1 Length: 1175 
+Range 1: 167 to 352
+
+Score:43.1 bits(100), Expect:0.002, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  352
+
+
+
+
+>slowpoke, isoform K [Drosophila melanogaster]
+Sequence ID: NP_001014657.1 Length: 1164
+>slowpoke, isoform K [Drosophila melanogaster]
+Sequence ID: AAX52981.1 Length: 1164 
+Range 1: 167 to 352
+
+Score:43.1 bits(100), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  352
+
+
+
+
+>slowpoke, isoform X [Drosophila melanogaster]
+Sequence ID: NP_001262928.1 Length: 1152
+>slowpoke, isoform X [Drosophila melanogaster]
+Sequence ID: AGB96308.1 Length: 1152 
+Range 1: 150 to 335
+
+Score:43.1 bits(100), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  150  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  193
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  194  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  247
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  248  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  283
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  284  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  335
+
+
+
+
+>slowpoke, isoform W [Drosophila melanogaster]
+Sequence ID: NP_001262927.1 Length: 1159
+>slowpoke, isoform W [Drosophila melanogaster]
+Sequence ID: AGB96307.1 Length: 1159 
+Range 1: 150 to 335
+
+Score:43.1 bits(100), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  150  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  193
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  194  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  247
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  248  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  283
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  284  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  335
+
+
+
+
+>slowpoke, isoform A [Drosophila melanogaster]
+Sequence ID: NP_524486.2 Length: 1175
+>slowpoke, isoform A [Drosophila melanogaster]
+Sequence ID: AAF56324.1 Length: 1175 
+Range 1: 167 to 352
+
+Score:43.1 bits(100), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  352
+
+
+
+
+>slowpoke, isoform F [Drosophila melanogaster]
+Sequence ID: NP_001014662.1 Length: 1175
+>slowpoke, isoform F [Drosophila melanogaster]
+Sequence ID: AAX52977.1 Length: 1175 
+Range 1: 167 to 352
+
+Score:42.7 bits(99), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:52/236(22%), Positives:100/236(42%), Gaps:54/236(22%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYSGTARYHTQMLR  689
+            +VG+G+V   T   + F +  +LVG  M+AS   ++  II+ + SG  +Y  ++ R
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAMFAS---SIPEIIELVGSGN-KYGGELKR  352
+
+
+
+
+>uncharacterized protein Dmel_CG43155 [Drosophila melanogaster]
+Sequence ID: NP_572720.2 Length: 411
+>uncharacterized protein Dmel_CG43155 [Drosophila melanogaster]
+Sequence ID: AAF48048.2 Length: 411 
+Range 1: 165 to 199
+
+Score:42.4 bits(98), Expect:0.003, 
+Method:Compositional matrix adjust., 
+Identities:15/35(43%), Positives:25/35(71%), Gaps:0/35(0%)
+
+Query  624  ALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVG  658
+            A++F+ T LT++G+GN+ P T   ++F IC  L+G
+Sbjct  165  AVFFSSTVLTTIGYGNIVPVTTGGRVFCICFALIG  199
+
+
+
+
+>IP11279p [Drosophila melanogaster]
+Sequence ID: ABJ17020.1 Length: 272
+Range 1: 79 to 137
+
+Score:40.8 bits(94), Expect:0.006, 
+Method:Compositional matrix adjust., 
+Identities:19/59(32%), Positives:35/59(59%), Gaps:0/59(0%)
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAIIQRLYS  678
+            ++  A Y+  T LT++G+G+  P+T   K+FT+C  +VG  +   +F ++   + RL S
+Sbjct  79   KFTGAFYYATTVLTTIGYGHSTPSTVGGKLFTMCYAIVGIPLGLVMFQSIGERVNRLSS  137
+
+
+
+
+>slowpoke, isoform P [Drosophila melanogaster]
+Sequence ID: NP_001014652.1 Length: 1164
+>slowpoke, isoform P [Drosophila melanogaster]
+Sequence ID: AAX52990.1 Length: 1164 
+Range 1: 167 to 462
+
+Score:40.8 bits(94), Expect:0.012, 
+Method:Compositional matrix adjust., 
+Identities:73/346(21%), Positives:134/346(38%), Gaps:86/346(24%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII--QRLYSGTARY--------  683
+            +VG+G+V   T   + F +  +LVG  ++AS    +  +I  +  Y GT +         
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAIFASCIPEIIDLIGTRAKYGGTLKNEKGRRHIV  360
+
+Query  684  ---HTQMLRVREFIR----------------FHQIPNPLRQRLEEYFQHAWT---YTNGI  721
+               H     V  F++                 H+ P  L   LE  F+  +T   +  G 
+Sbjct  361  VCGHITYESVSHFLKDFLHEDREDVDVEVVFLHRKPPDL--ELEGLFKRHFTTVEFFQGT  418
+
+Query  722  DMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLK  767
+             MN +     +  +AD CL L      +  A +AA+   +R +S+K
+Sbjct  419  IMNPIDLQRVKVHEADACLVLANKYCQDPDAEDAAN--IMRVISIK  462
+
+
+
+
+>slowpoke, isoform Q [Drosophila melanogaster]
+Sequence ID: NP_001014651.1 Length: 1175
+>slowpoke, isoform Q [Drosophila melanogaster]
+Sequence ID: AAX52989.1 Length: 1175 
+Range 1: 167 to 462
+
+Score:40.8 bits(94), Expect:0.014, 
+Method:Compositional matrix adjust., 
+Identities:73/346(21%), Positives:134/346(38%), Gaps:86/346(24%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII--QRLYSGTARY--------  683
+            +VG+G+V   T   + F +  +LVG  ++AS    +  +I  +  Y GT +         
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAIFASCIPEIIDLIGTRAKYGGTLKNEKGRRHIV  360
+
+Query  684  ---HTQMLRVREFIR----------------FHQIPNPLRQRLEEYFQHAWT---YTNGI  721
+               H     V  F++                 H+ P  L   LE  F+  +T   +  G 
+Sbjct  361  VCGHITYESVSHFLKDFLHEDREDVDVEVVFLHRKPPDL--ELEGLFKRHFTTVEFFQGT  418
+
+Query  722  DMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLK  767
+             MN +     +  +AD CL L      +  A +AA+   +R +S+K
+Sbjct  419  IMNPIDLQRVKVHEADACLVLANKYCQDPDAEDAAN--IMRVISIK  462
+
+
+
+
+>slowpoke, isoform E [Drosophila melanogaster]
+Sequence ID: NP_001014663.1 Length: 1175
+>slowpoke, isoform E [Drosophila melanogaster]
+Sequence ID: AAX52988.1 Length: 1175 
+Range 1: 167 to 462
+
+Score:40.8 bits(94), Expect:0.015, 
+Method:Compositional matrix adjust., 
+Identities:73/346(21%), Positives:134/346(38%), Gaps:86/346(24%)
+
+Query  458  VDVTFVIDILINFRTTFVNGQDEVVSHPGRIAVHYLSGWFLIDLVAAIPFDLLLVGSDTD  517
+            +D+ F I  ++ F   F+   D++              WF++++ + +  D   +     
+Sbjct  167  IDLAFNIFFMVYFFIRFIAASDKL--------------WFMLEMYSFV--DYFTIPPSFV  210
+
+Query  518  ELGLDKDETTTLIGL--LKTARLLRLVRVARKIDRYSEYGAAVLVLLMATFALIAHWL--  573
+             + LD+    T IGL  L+  RL+ +  + + ++      +  L  L++ F  I+ WL  
+Sbjct  211  SIYLDR----TWIGLRFLRALRLMTVPDILQYLNVLKTSSSIRLAQLVSIF--ISVWLTA  264
+
+Query  574  ACIWYAIGNAERPFMKNKVGWLDALAEATQEYYYANNTGGGPSIKSRYVTALYFTFTSLT  633
+            A I + + N+  P   N    L                         Y T +YF   +++
+Sbjct  265  AGIIHLLENSGDPLDFNNAHRLS------------------------YWTCVYFLIVTMS  300
+
+Query  634  SVGFGNVAPNTDAEKIFTICVMLVGSLMYASIFGNVSAII--QRLYSGTARY--------  683
+            +VG+G+V   T   + F +  +LVG  ++AS    +  +I  +  Y GT +         
+Sbjct  301  TVGYGDVYCETVLGRTFLVFFLLVGLAIFASCIPEIIDLIGTRAKYGGTLKNEKGRRHIV  360
+
+Query  684  ---HTQMLRVREFIR----------------FHQIPNPLRQRLEEYFQHAWT---YTNGI  721
+               H     V  F++                 H+ P  L   LE  F+  +T   +  G 
+Sbjct  361  VCGHITYESVSHFLKDFLHEDREDVDVEVVFLHRKPPDL--ELEGLFKRHFTTVEFFQGT  418
+
+Query  722  DMNSVLKGFPECLQADICLHLNRNLLNNCSAFEAASPGCLRALSLK  767
+             MN +     +  +AD CL L      +  A +AA+   +R +S+K
+Sbjct  419  IMNPIDLQRVKVHEADACLVLANKYCQDPDAEDAAN--IMRVISIK  462
+
+
+
+
+>uncharacterized protein Dmel_CG42594, isoform C [Drosophila melanogaster]
+Sequence ID: NP_001162668.2 Length: 1039
+>uncharacterized protein Dmel_CG42594, isoform C [Drosophila melanogaster]
+Sequence ID: ACZ95205.2 Length: 1039 
+Range 1: 601 to 659
+
+Score:40.4 bits(93), Expect:0.017, 
+Method:Compositional matrix adjust., 
+Identities:20/59(34%), Positives:33/59(55%), Gaps:3/59(5%)
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVG---SLMYASIFGNVSAIIQR  675
+             +  A  ++ T LT++G+GNVAP T   +I T+     G   +L+Y S  G++ A + R
+Sbjct  601  NFAKAFLYSLTVLTTIGYGNVAPRTTLGRIVTLAYAFFGIPLTLVYLSSTGSILARVAR  659
+
+
+
+
+>uncharacterized protein Dmel_CG42594, isoform A [Drosophila melanogaster]
+Sequence ID: NP_001162667.1 Length: 905
+>uncharacterized protein Dmel_CG42594, isoform D [Drosophila melanogaster]
+Sequence ID: NP_001284869.1 Length: 905
+>uncharacterized protein Dmel_CG42594, isoform A [Drosophila melanogaster]
+Sequence ID: ACZ95204.1 Length: 905
+>uncharacterized protein Dmel_CG42594, isoform D [Drosophila melanogaster]
+Sequence ID: AHN59340.1 Length: 905 
+Range 1: 601 to 659
+
+Score:40.4 bits(93), Expect:0.019, 
+Method:Compositional matrix adjust., 
+Identities:20/59(34%), Positives:33/59(55%), Gaps:3/59(5%)
+
+Query  620  RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVG---SLMYASIFGNVSAIIQR  675
+             +  A  ++ T LT++G+GNVAP T   +I T+     G   +L+Y S  G++ A + R
+Sbjct  601  NFAKAFLYSLTVLTTIGYGNVAPRTTLGRIVTLAYAFFGIPLTLVYLSSTGSILARVAR  659
+
+
+
+
+>sandman [Drosophila melanogaster]
+Sequence ID: NP_610349.1 Length: 395
+>sandman [Drosophila melanogaster]
+Sequence ID: AAF59138.1 Length: 395
+>RE21922p [Drosophila melanogaster]
+Sequence ID: AAL48792.1 Length: 395 
+Range 1: 121 to 182
+
+Score:38.9 bits(89), Expect:0.042, 
+Method:Compositional matrix adjust., 
+Identities:19/62(31%), Positives:37/62(59%), Gaps:4/62(6%)
+
+Query  614  GPSIKS-RYVTALYFTFTSLTSVGFGNVAPNTDAEKIFTICVMLVGS---LMYASIFGNV  669
+            GP ++   +  A  ++ T +T++G+GN+ P+++  K+ TI   ++G    L+Y S  G+V
+Sbjct  121  GPDVEQWSFSGAFLYSLTVITTIGYGNITPHSECGKLVTILYAIIGMPLFLLYLSNIGDV  180
+
+Query  670  SA  671
+             A
+Sbjct  181  LA  182
+
+
+
+
+
+
+
+		
+
+
