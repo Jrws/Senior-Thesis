@@ -1,0 +1,7 @@
+ArrayTaskID	SRR_Accession
+1       ROCK_1
+2       ROCK_2
+3       ROCK_3
+4		DSC1_1
+5       DSC1_2
+6       DSC1_3
