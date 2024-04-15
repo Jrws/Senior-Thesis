@@ -1,0 +1,162 @@
+---
+title: "Coexpression Notebook"
+output: html_notebook
+---
+
+```{r, package_setup}
+suppressMessages({
+  library(Seurat)
+  library(tidyverse)
+  library(cowplot)
+  library(patchwork)
+  library(sctransform)
+  library(ComplexHeatmap)
+  library(future)
+  library(scales)
+  library(data.table)
+  library(ggplot2)
+})
+
+projectFolder="C:/Users/jonny/OneDrive/Desktop/Code/Research/scRNASeq"
+setwd(projectFolder)
+
+#Load one of the following datasets
+load(".RData")
+```
+
+```{r, vars}
+Dsc1 <- "LOC5575962"
+Ir25a <- "Ir25a"
+```
+
+```{r, high_expr}
+
+genelist = c(Dsc1)
+expr <- FetchData(dataset[["RNA"]], vars = Dsc1)
+dataset.subset <- dataset[, which(x = expr > 0)]
+
+Dsc1_df <- dataset.subset[["RNA"]]$counts
+Dsc1_df <- Dsc1_df[,Dsc1_df[Dsc1,] != 0]
+
+high_expr <- Dsc1_df[order(rowSums(Dsc1_df != 0), decreasing=TRUE),]
+
+names <- rownames(high_expr[,0])
+which(names == Dsc1)
+
+counts <- rowSums(high_expr != 0)
+props <- counts / counts[Dsc1]
+props[1:10]
+view(props)
+
+write.csv(props, file="props.csv")
+```
+
+```{r, match_expr}
+
+Dsc1_df2 <- dataset.subset[["RNA"]]$counts
+Dsc1_expr_mask <- (Dsc1_df2 != 0)[Dsc1,]
+
+# test <- rbind((Dsc1_df2 != 0)[Dsc1,300:305], (Dsc1_df2 != 0)["Or31",300:305])
+# test
+
+out <- apply((Dsc1_df2 != 0), 1, function(row) row == Dsc1_expr_mask)
+out[,Dsc1]
+
+match_expr <- out[,order(colSums(out), decreasing=TRUE)]
+match_expr
+counts2 <- colSums(match_expr)
+counts2
+props2 <- counts2 / counts2[Dsc1]
+props2[1:10]
+view(props2)
+
+write.csv(props2, file="props2.csv")
+```
+
+```{r, DotPlot}
+
+DotPlot(dataset, features = c(Dsc1, "LOC5565718")) + scale_y_discrete(limits = rev)
+```
+
+```{r, FeaturePlot}
+FeaturePlot(dataset.subset, features = genelist, reduction = 'tsne', pt.size = .1, slot = "data", order=TRUE)
+```
+
+```{r, Heatmap}
+DoHeatmap(dataset, features = c(Dsc1, "LOC5565718"))
+```
+
+```{r, receptors}
+TrpA1 = 'LOC5571938'
+Ir93a = 'Ir93a'
+
+receptor_list <- c(Dsc1, TrpA1, KH6, Shaw, Rdl_gene, Para_gene, pseudo_bulk.ORs$Gene, pseudo_bulk.IRs$Gene, pseudo_bulk.GRs$Gene)
+result <- vector("list", length(receptor_list))
+
+i <- 1
+for (gene in receptor_list) {
+  
+  expr <- FetchData(dataset[["RNA"]], vars = gene)
+  dataset.subset <- dataset[, which(x = expr > 0)]
+  
+  
+  #gene_df <- dataset.subset[["RNA"]]$counts[c(gene, Dsc1),]
+  gene_df <- dataset.subset[["RNA"]]$counts[c(gene, Ir93a),]
+  
+  counts <- rowSums(gene_df > 0)
+  num <- counts[gene]
+  #percent <- if(num != 0) counts[Dsc1] / num else 0
+  #result[[i]] <- tibble(LOC=gene, Dsc1_EXPR=percent, NUM=num)
+  percent <- if(num != 0) counts[Ir93a] / num else 0
+  result[[i]] <- tibble(LOC=gene,Ir93a_EXPR=percent, NUM=num)
+  i <- i + 1
+}
+
+result_df <- dplyr::bind_rows(result)
+result_df <- result_df[order(result_df$Ir93a_EXPR, decreasing=T),]
+#write.csv(result_df, file="Dsc1_coexpr.csv")
+write.csv(result_df, file="Ir93a_coexpr.csv")
+```
+
+```{r, potassium channels}
+KH6 <- "LOC5571255"
+Shaw <- "LOC5568798"
+
+Shab <- "LOC5572202"
+Shaker <- "LOC5572028"
+KQT2 <- "LOC5571969"
+Ca_chan <- "LOC5564339"
+Ca_act_KC <- "LOC5568022"
+Slowpoke <- "LOC5578934"
+
+IRKC3 <- "LOC5571227"
+
+receptor_list <- c(Dsc1, IRKC3)
+result <- vector("list", length(receptor_list))
+
+interested <- Dsc1
+
+i <- 1
+for (gene in receptor_list) {
+  
+  expr <- FetchData(dataset[["RNA"]], vars = gene)
+  dataset.subset <- dataset[, which(x = expr > 0)]
+  
+  
+  #gene_df <- dataset.subset[["RNA"]]$counts[c(gene, Dsc1),]
+  gene_df <- dataset.subset[["RNA"]]$counts[c(gene, interested),]
+  
+  counts <- rowSums(gene_df > 0)
+  num <- counts[gene]
+  #percent <- if(num != 0) counts[Dsc1] / num else 0
+  #result[[i]] <- tibble(LOC=gene, Dsc1_EXPR=percent, NUM=num)
+  percent <- if(num != 0) counts[interested] / num else 0
+  result[[i]] <- tibble(LOC=gene,interested_EXPR=percent, NUM=num)
+  i <- i + 1
+}
+
+result_df <- dplyr::bind_rows(result)
+result_df <- result_df[order(result_df$interested_EXPR, decreasing=T),]
+#write.csv(result_df, file="Dsc1_coexpr.csv")
+write.csv(result_df, file=paste0(interested,"_coexpression.csv"))
+```
